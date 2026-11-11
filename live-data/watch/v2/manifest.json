@@ -1,0 +1,87 @@
+{
+  "schema": 2,
+  "feed_version": "S1000182",
+  "generated_at": "2026-11-01T18:10:27.179Z",
+  "segments": [
+    {
+      "name": "board",
+      "file": "board.json",
+      "bytes": 899,
+      "sha256": "68e05193850418469f8e3dc576130891788e9cf784d113523ace11f3e5e7304b",
+      "source_generated_at": "2026-11-01T18:10:27Z"
+    },
+    {
+      "name": "nearby",
+      "file": "nearby.json",
+      "bytes": 1925,
+      "sha256": "94ea5dd9c94682d5912de07a2b0f125cac1fb7fe4fc44c31e0dcca22d3a841fb",
+      "source_generated_at": "2026-11-01T18:10:27Z"
+    },
+    {
+      "name": "routes",
+      "file": "routes.json",
+      "bytes": 2369,
+      "sha256": "eddec067ddaa3153b64571a94305b19420e584ae99ca9d313a95a154ee154ad3",
+      "source_generated_at": "2026-11-01T18:10:27Z"
+    },
+    {
+      "name": "alerts",
+      "file": "alerts.json",
+      "bytes": 304,
+      "sha256": "35c50d64d2104a21cf60800937d0eea75efccc8fd0547c46eb32cecbf0d95f93",
+      "source_generated_at": "2026-11-01T17:48:24.922Z"
+    },
+    {
+      "name": "signal",
+      "file": "signal.json",
+      "bytes": 6507,
+      "sha256": "586395d7caec31005b214790e3b4f68057299b45a773eacbe42ae6f04614357c",
+      "source_generated_at": "2026-10-30"
+    },
+    {
+      "name": "press",
+      "file": "press.json",
+      "bytes": 88328,
+      "sha256": "368e2380f4ddee7b2b716ec13c20d861048c5aa3616db5e082401c260a2b032e",
+      "source_generated_at": "2026-10-15"
+    },
+    {
+      "name": "cities",
+      "file": "cities.json",
+      "bytes": 824,
+      "sha256": "86b80bc54f5a4a1e6ff43095fb88205f60f2c358cfc5bcf504112358aae367a4",
+      "source_generated_at": "2026-11-01T18:10:27.179Z"
+    },
+    {
+      "name": "stops",
+      "file": "stops.bin.z",
+      "bytes": 109288,
+      "sha256": "da9858c6b97b3b8c893ed7bc05206b6a85b9e9ad6e56f3bef2955003275f1258",
+      "source_generated_at": "2026-10-19T18:54:29Z",
+      "raw_bytes": 196968
+    },
+    {
+      "name": "static",
+      "file": "static.ltwbz",
+      "bytes": 331318,
+      "sha256": "03b129e4218433eccb7b8bb157c18aef4b9d0af92b7cb0ac251e63ad6fc54c8d",
+      "source_generated_at": "2026-10-19T18:54:29Z"
+    }
+  ],
+  "smart_derivative": {
+    "source_ok": true,
+    "routes_served": 32,
+    "routes_total": 45
+  },
+  "flags": {
+    "routes_truncated": false,
+    "nearby_truncated": true
+  },
+  "signature": null,
+  "producer_notes": [
+    "DDOT departures: vehicles.json is positions-only (no departure epochs in the authorized inputs); board, nearby and routes departures are SMART display rows from the smart-tu derivative only.",
+    "Cities: only the Detroit family is an authorized input; the other 7 cards are stale/null, not fabricated.",
+    "Static segment sourced from the archive tree; the live live-data/watch/ltwb-manifest.json 404s under the decommission stub (checked 2026-11-01).",
+    "SMART TU stop_ids are GTFS numeric; registry SMART ids carry prefixes (SMARTGTFS:/SMARTMI:) -- stop names join on the numeric suffix; unmatched ids carry stop=''."
+  ]
+}
