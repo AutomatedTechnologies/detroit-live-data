@@ -1,0 +1,136 @@
+name: Feed mirror (site repo -> data origin)
+
+# Data-origin mirror (2026-11-12, LTD VM removal — owner directive:
+# the production path must not depend on the agent VM). Until now
+# the VM feed-publisher mirrored the managed feed set from the site
+# repo into this repo every cycle, using a personal access token.
+# This workflow owns the mirror instead: it reads the site repo
+# (public — a plain unauthenticated clone, no credential at all),
+# syncs ONLY the managed feed set under live-data/ (the publisher's
+# FEED_FILES list plus the smart-tu/ prefix; the list below is a
+# copy — the publisher in the site repo remains the authority),
+# commits with the same message shape the VM mirror used, and
+# pushes with this repo's own GITHUB_TOKEN. A GITHUB_TOKEN push
+# triggers this repo's legacy Pages build (verified empirically
+# 2026-11-12 with a throwaway probe workflow), so the data origin
+# keeps serving fresh copies with no dispatch step.
+#
+# Nothing outside the managed set is ever touched: this repo's
+# README, .nojekyll and the watch/ subtree belong to other
+# pipelines and are preserved exactly.
+#
+# Gated by the FEED_MIRROR repo variable (anything but "on" skips
+# the job), so landing this workflow changed nothing until cutover.
+# Cadence: a self-dispatch chain (FEED_MIRROR_CHAIN) at ~1-2 minute
+# spacing trails the site publish; a */15 schedule floor restarts a
+# dead chain (GitHub's scheduler delivery in this account is too
+# sparse to own cadence — measured, Project 30). A missed cycle
+# converges on the next: the sync always diffs against the site's
+# current tip.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    if: vars.FEED_MIRROR == 'on'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout data repo
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Sync managed feed set from the site repo
+        run: |
+          set -euo pipefail
+          git clone --depth 1 https://github.com/AutomatedTechnologies/detroit-automation-academy-public.git "$RUNNER_TEMP/site"
+          FEED_FILES="vehicles.json alerts.json smart-display.json smart-trip-updates.json trip-updates.json smart-headsigns.json smart-schedule-extract.json ddot-patterns.json adherence.json track-state.json"
+          mkdir -p live-data
+          # Deletions inside the managed set only: a managed file
+          # that vanished at the source vanishes here too.
+          for f in $FEED_FILES; do
+            if [ ! -f "$RUNNER_TEMP/site/live-data/$f" ] && [ -f "live-data/$f" ]; then
+              git rm -q "live-data/$f"
+            fi
+          done
+          if [ -d live-data/smart-tu ]; then
+            find live-data/smart-tu -type f | while read -r p; do
+              rel="${p#live-data/}"
+              if [ ! -f "$RUNNER_TEMP/site/live-data/$rel" ]; then
+                git rm -q "$p"
+              fi
+            done
+          fi
+          # Copies: the source's managed set wins, byte for byte.
+          for f in $FEED_FILES; do
+            if [ -f "$RUNNER_TEMP/site/live-data/$f" ]; then
+              cp "$RUNNER_TEMP/site/live-data/$f" "live-data/$f"
+            fi
+          done
+          if [ -d "$RUNNER_TEMP/site/live-data/smart-tu" ]; then
+            mkdir -p live-data/smart-tu
+            cp -r "$RUNNER_TEMP/site/live-data/smart-tu/." live-data/smart-tu/
+          fi
+          git add -A live-data
+          if git diff --cached --quiet; then
+            echo "mirror: data origin already identical to the site tip's managed set"
+            exit 0
+          fi
+          gen=$(python3 -c "import json; print(json.load(open('live-data/vehicles.json'))['generated_at'][:16])")
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "live-data: feed update ${gen}Z"
+          # Single writer (this workflow's concurrency group); the
+          # retry covers the watch/ pipeline's commits landing
+          # mid-run: fetch + rebase + push again, x3, fail loud.
+          # A failed cycle costs nothing — the next chain cycle
+          # re-syncs from a fresh checkout against the new tip.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "mirror pushed on attempt $attempt (generation ${gen}Z)"
+              exit 0
+            fi
+            echo "push raced (attempt $attempt); rebasing"
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; echo 'mirror rebase conflict; failing loud, next cycle retries fresh' >&2; exit 1; }
+          done
+          echo 'failed to push mirror after 3 attempts' >&2
+          exit 1
+
+  # Self-dispatch chain: same pattern as the site repo's
+  # feed-collect chain — single pending slot, schedule floor
+  # restarts a dead chain. Gated by FEED_MIRROR_CHAIN.
+  chain:
+    needs: [mirror]
+    if: always() && vars.FEED_MIRROR_CHAIN == 'on'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      actions: write
+    steps:
+      - name: Dispatch the next mirror cycle
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CHAIN_DELAY_SEC: ${{ vars.FEED_MIRROR_DELAY_SEC }}
+        run: |
+          others=$(gh run list --repo "${{ github.repository }}" \
+            --workflow feed-mirror.yml --limit 15 \
+            --json databaseId,status \
+            --jq "[.[] | select(.databaseId != ${{ github.run_id }}) | select(.status == \"queued\" or .status == \"pending\" or .status == \"waiting\" or .status == \"in_progress\")] | length")
+          if [ "${others:-0}" != "0" ]; then
+            echo "chain: $others other run(s) active or queued; the queued run chains onward itself"
+            exit 0
+          fi
+          delay="${CHAIN_DELAY_SEC:-45}"
+          echo "chain: sleeping ${delay}s, then dispatching the next feed-mirror run"
+          sleep "$delay"
+          gh workflow run feed-mirror.yml --repo "${{ github.repository }}" --ref main
