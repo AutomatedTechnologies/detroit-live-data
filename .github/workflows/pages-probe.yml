@@ -1,0 +1,16 @@
+name: Pages trigger probe (throwaway)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Empty commit + push with GITHUB_TOKEN
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit --allow-empty -m "probe: pages trigger test (empty commit, no content change)"
+          git push origin HEAD:main
