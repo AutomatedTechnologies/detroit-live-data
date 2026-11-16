@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-16T21:21:26.075Z",
-  "count": 171,
+  "generated_at": "2026-11-16T21:38:07.716Z",
+  "count": 172,
   "vehicles": [
     {
       "agency": "smart",
       "route_id": "759",
-      "trip_id": "1957020",
-      "direction_id": 1,
+      "trip_id": "3013020",
+      "direction_id": 0,
       "vehicle_id": "3760",
-      "lat": 42.67878723144531,
-      "lon": -83.23102569580078,
-      "bearing": 87,
-      "speed_mph": 45,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "lat": 42.676971435546875,
+      "lon": -83.22078704833984,
+      "bearing": null,
+      "speed_mph": 1,
+      "updated_at": "2026-11-16T21:37:34.000Z"
     },
     {
       "agency": "smart",
       "route_id": "460",
-      "trip_id": "2441020",
-      "direction_id": 1,
+      "trip_id": "3059020",
+      "direction_id": 0,
       "vehicle_id": "3761",
-      "lat": 42.54465866088867,
-      "lon": -83.21228790283203,
+      "lat": 42.55864334106445,
+      "lon": -83.1822280883789,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:14.000Z"
+      "updated_at": "2026-11-16T21:37:34.000Z"
     },
     {
       "agency": "smart",
@@ -32,11 +32,11 @@
       "trip_id": "781020",
       "direction_id": 0,
       "vehicle_id": "3759",
-      "lat": 42.6486930847168,
-      "lon": -83.13233184814453,
-      "bearing": 177,
-      "speed_mph": 46,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "lat": 42.56319046020508,
+      "lon": -83.11724090576172,
+      "bearing": 358,
+      "speed_mph": 43,
+      "updated_at": "2026-11-16T21:37:53.000Z"
     },
     {
       "agency": "smart",
@@ -44,11 +44,11 @@
       "trip_id": "2231020",
       "direction_id": 1,
       "vehicle_id": "3638",
-      "lat": 42.4648551940918,
-      "lon": -82.9576416015625,
-      "bearing": 25,
-      "speed_mph": 18,
-      "updated_at": "2026-11-16T21:21:10.000Z"
+      "lat": 42.55556106567383,
+      "lon": -82.89893341064453,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:42.000Z"
     },
     {
       "agency": "smart",
@@ -56,11 +56,11 @@
       "trip_id": "2946020",
       "direction_id": 0,
       "vehicle_id": "3630",
-      "lat": 42.49237060546875,
-      "lon": -83.36336517333984,
-      "bearing": 80,
-      "speed_mph": 9,
-      "updated_at": "2026-11-16T21:21:17.000Z"
+      "lat": 42.49557876586914,
+      "lon": -83.47036743164062,
+      "bearing": 87,
+      "speed_mph": 8,
+      "updated_at": "2026-11-16T21:38:00.000Z"
     },
     {
       "agency": "smart",
@@ -68,47 +68,47 @@
       "trip_id": "1899020",
       "direction_id": 0,
       "vehicle_id": "3751",
-      "lat": 42.48839569091797,
-      "lon": -83.1473388671875,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:12.000Z"
+      "lat": 42.48899841308594,
+      "lon": -83.17491149902344,
+      "bearing": 266,
+      "speed_mph": 36,
+      "updated_at": "2026-11-16T21:37:56.000Z"
     },
     {
       "agency": "smart",
       "route_id": "510",
-      "trip_id": "2343020",
-      "direction_id": 1,
+      "trip_id": "1968020",
+      "direction_id": 0,
       "vehicle_id": "3752",
-      "lat": 42.63936996459961,
-      "lon": -83.03289031982422,
+      "lat": 42.670921325683594,
+      "lon": -83.0086441040039,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:08.000Z"
+      "updated_at": "2026-11-16T21:37:58.000Z"
     },
     {
       "agency": "smart",
       "route_id": "460",
-      "trip_id": "2316020",
-      "direction_id": 0,
+      "trip_id": "2422020",
+      "direction_id": 1,
       "vehicle_id": "3631",
-      "lat": 42.48569107055664,
-      "lon": -83.14653015136719,
+      "lat": 42.44426727294922,
+      "lon": -83.11683654785156,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:17.000Z"
+      "updated_at": "2026-11-16T21:37:44.000Z"
     },
     {
       "agency": "smart",
       "route_id": "461",
-      "trip_id": "1695020",
-      "direction_id": 1,
+      "trip_id": "2354020",
+      "direction_id": 0,
       "vehicle_id": "3632",
-      "lat": 42.56221008300781,
-      "lon": -83.1525650024414,
-      "bearing": 89,
-      "speed_mph": 10,
-      "updated_at": "2026-11-16T21:21:04.000Z"
+      "lat": 42.562381744384766,
+      "lon": -83.15533447265625,
+      "bearing": 270,
+      "speed_mph": 12,
+      "updated_at": "2026-11-16T21:37:44.000Z"
     },
     {
       "agency": "smart",
@@ -116,11 +116,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3753",
-      "lat": 42.495426177978516,
-      "lon": -82.89757537841797,
-      "bearing": 177,
-      "speed_mph": 23,
-      "updated_at": "2026-11-16T21:20:50.000Z"
+      "lat": 42.41545486450195,
+      "lon": -82.90667724609375,
+      "bearing": 118,
+      "speed_mph": 13,
+      "updated_at": "2026-11-16T21:37:34.000Z"
     },
     {
       "agency": "smart",
@@ -128,11 +128,11 @@
       "trip_id": "3093020",
       "direction_id": 0,
       "vehicle_id": "3754",
-      "lat": 42.33507537841797,
-      "lon": -83.03209686279297,
+      "lat": 42.32840347290039,
+      "lon": -83.0489273071289,
       "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:09.000Z"
+      "speed_mph": 1,
+      "updated_at": "2026-11-16T21:38:01.000Z"
     },
     {
       "agency": "smart",
@@ -140,11 +140,11 @@
       "trip_id": "981020",
       "direction_id": 1,
       "vehicle_id": "3634",
-      "lat": 42.65152359008789,
-      "lon": -83.53028869628906,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:20.000Z"
+      "lat": 42.65956115722656,
+      "lon": -83.41716766357422,
+      "bearing": 87,
+      "speed_mph": 16,
+      "updated_at": "2026-11-16T21:37:40.000Z"
     },
     {
       "agency": "smart",
@@ -152,11 +152,11 @@
       "trip_id": "3574020",
       "direction_id": 0,
       "vehicle_id": "3755",
-      "lat": 42.522132873535156,
-      "lon": -82.90556335449219,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:06.000Z"
+      "lat": 42.509071350097656,
+      "lon": -82.9590835571289,
+      "bearing": 267,
+      "speed_mph": 27,
+      "updated_at": "2026-11-16T21:37:58.000Z"
     },
     {
       "agency": "smart",
@@ -164,23 +164,23 @@
       "trip_id": "467020",
       "direction_id": 1,
       "vehicle_id": "3756",
-      "lat": 42.36155700683594,
-      "lon": -83.0617446899414,
-      "bearing": 333,
-      "speed_mph": 23,
-      "updated_at": "2026-11-16T21:21:09.000Z"
+      "lat": 42.40005111694336,
+      "lon": -83.05919647216797,
+      "bearing": 63,
+      "speed_mph": 12,
+      "updated_at": "2026-11-16T21:37:34.000Z"
     },
     {
       "agency": "smart",
-      "route_id": "851",
-      "trip_id": "2232020",
-      "direction_id": 1,
+      "route_id": "",
+      "trip_id": "",
+      "direction_id": null,
       "vehicle_id": "3636",
-      "lat": 42.528846740722656,
-      "lon": -83.35993957519531,
-      "bearing": 352,
-      "speed_mph": 15,
-      "updated_at": "2026-11-16T21:20:59.000Z"
+      "lat": 42.580528259277344,
+      "lon": -83.3084487915039,
+      "bearing": 106,
+      "speed_mph": 43,
+      "updated_at": "2026-11-16T21:37:16.000Z"
     },
     {
       "agency": "smart",
@@ -188,11 +188,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3757",
-      "lat": 42.55389404296875,
+      "lat": 42.55387496948242,
       "lon": -82.88493347167969,
       "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:41.000Z"
+      "speed_mph": 1,
+      "updated_at": "2026-11-16T21:37:30.000Z"
     },
     {
       "agency": "smart",
@@ -204,7 +204,7 @@
       "lon": -82.88385009765625,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:47.000Z"
+      "updated_at": "2026-11-16T21:37:26.000Z"
     },
     {
       "agency": "smart",
@@ -212,11 +212,11 @@
       "trip_id": "62020",
       "direction_id": 1,
       "vehicle_id": "3770",
-      "lat": 42.52183532714844,
-      "lon": -83.34517669677734,
-      "bearing": 128,
-      "speed_mph": 30,
-      "updated_at": "2026-11-16T21:21:15.000Z"
+      "lat": 42.48912048339844,
+      "lon": -83.26148986816406,
+      "bearing": 89,
+      "speed_mph": 22,
+      "updated_at": "2026-11-16T21:37:38.000Z"
     },
     {
       "agency": "smart",
@@ -224,11 +224,11 @@
       "trip_id": "1740020",
       "direction_id": 0,
       "vehicle_id": "3650",
-      "lat": 42.572662353515625,
-      "lon": -82.89021301269531,
-      "bearing": null,
-      "speed_mph": 3,
-      "updated_at": "2026-11-16T21:21:22.000Z"
+      "lat": 42.47666931152344,
+      "lon": -82.95033264160156,
+      "bearing": 205,
+      "speed_mph": 35,
+      "updated_at": "2026-11-16T21:37:36.000Z"
     },
     {
       "agency": "smart",
@@ -236,11 +236,11 @@
       "trip_id": "3256020",
       "direction_id": 1,
       "vehicle_id": "3771",
-      "lat": 42.50092315673828,
-      "lon": -83.02810668945312,
+      "lat": 42.58255386352539,
+      "lon": -83.0301742553711,
       "bearing": 358,
-      "speed_mph": 34,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "speed_mph": 30,
+      "updated_at": "2026-11-16T21:37:57.000Z"
     },
     {
       "agency": "smart",
@@ -248,11 +248,11 @@
       "trip_id": "615020",
       "direction_id": 1,
       "vehicle_id": "3772",
-      "lat": 42.589874267578125,
-      "lon": -83.03048706054688,
-      "bearing": 358,
-      "speed_mph": 4,
-      "updated_at": "2026-11-16T21:21:19.000Z"
+      "lat": 42.62559127807617,
+      "lon": -83.0118179321289,
+      "bearing": 85,
+      "speed_mph": 11,
+      "updated_at": "2026-11-16T21:37:49.000Z"
     },
     {
       "agency": "smart",
@@ -260,11 +260,11 @@
       "trip_id": "863020",
       "direction_id": 1,
       "vehicle_id": "3649",
-      "lat": 42.32810592651367,
-      "lon": -83.04637908935547,
-      "bearing": 238,
-      "speed_mph": 5,
-      "updated_at": "2026-11-16T21:21:20.000Z"
+      "lat": 42.36213302612305,
+      "lon": -83.0257568359375,
+      "bearing": 26,
+      "speed_mph": 35,
+      "updated_at": "2026-11-16T21:37:41.000Z"
     },
     {
       "agency": "smart",
@@ -276,19 +276,19 @@
       "lon": -83.16033172607422,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:37.000Z"
+      "updated_at": "2026-11-16T21:37:18.000Z"
     },
     {
       "agency": "smart",
       "route_id": "160",
-      "trip_id": "2235020",
-      "direction_id": 0,
+      "trip_id": "433020",
+      "direction_id": 1,
       "vehicle_id": "3763",
-      "lat": 42.141021728515625,
-      "lon": -83.20984649658203,
-      "bearing": 270,
-      "speed_mph": 7,
-      "updated_at": "2026-11-16T21:21:22.000Z"
+      "lat": 42.14125442504883,
+      "lon": -83.19367218017578,
+      "bearing": 88,
+      "speed_mph": 10,
+      "updated_at": "2026-11-16T21:37:58.000Z"
     },
     {
       "agency": "smart",
@@ -296,11 +296,11 @@
       "trip_id": "2499020",
       "direction_id": 0,
       "vehicle_id": "3642",
-      "lat": 42.63555908203125,
-      "lon": -83.3145980834961,
-      "bearing": 266,
-      "speed_mph": 15,
-      "updated_at": "2026-11-16T21:21:17.000Z"
+      "lat": 42.65989303588867,
+      "lon": -83.40520477294922,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:40.000Z"
     },
     {
       "agency": "smart",
@@ -312,7 +312,7 @@
       "lon": -83.16039276123047,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:50.000Z"
+      "updated_at": "2026-11-16T21:37:29.000Z"
     },
     {
       "agency": "smart",
@@ -320,23 +320,23 @@
       "trip_id": "1903020",
       "direction_id": 1,
       "vehicle_id": "3765",
-      "lat": 42.33345413208008,
-      "lon": -83.40809631347656,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:56.000Z"
+      "lat": 42.335941314697266,
+      "lon": -83.40505981445312,
+      "bearing": 48,
+      "speed_mph": 32,
+      "updated_at": "2026-11-16T21:38:00.000Z"
     },
     {
       "agency": "smart",
       "route_id": "560",
-      "trip_id": "70020",
-      "direction_id": 1,
+      "trip_id": "2083020",
+      "direction_id": 0,
       "vehicle_id": "3646",
-      "lat": 42.64549255371094,
-      "lon": -82.8527603149414,
+      "lat": 42.675907135009766,
+      "lon": -82.83006286621094,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:14.000Z"
+      "updated_at": "2026-11-16T21:37:56.000Z"
     },
     {
       "agency": "smart",
@@ -348,7 +348,7 @@
       "lon": -83.16035461425781,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:34.000Z"
+      "updated_at": "2026-11-16T21:37:14.000Z"
     },
     {
       "agency": "smart",
@@ -360,7 +360,7 @@
       "lon": -83.0380630493164,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:19:27.000Z"
+      "updated_at": "2026-11-16T21:37:34.000Z"
     },
     {
       "agency": "smart",
@@ -368,11 +368,11 @@
       "trip_id": "1716020",
       "direction_id": 0,
       "vehicle_id": "3769",
-      "lat": 42.647769927978516,
-      "lon": -83.2542724609375,
+      "lat": 42.647605895996094,
+      "lon": -83.2538833618164,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:05.000Z"
+      "updated_at": "2026-11-16T21:37:41.000Z"
     },
     {
       "agency": "smart",
@@ -380,11 +380,11 @@
       "trip_id": "3391020",
       "direction_id": 1,
       "vehicle_id": "3780",
-      "lat": 42.43146514892578,
-      "lon": -83.29713439941406,
+      "lat": 42.50209426879883,
+      "lon": -83.28501892089844,
       "bearing": 358,
-      "speed_mph": 11,
-      "updated_at": "2026-11-16T21:21:11.000Z"
+      "speed_mph": 16,
+      "updated_at": "2026-11-16T21:37:56.000Z"
     },
     {
       "agency": "smart",
@@ -392,11 +392,11 @@
       "trip_id": "2618020",
       "direction_id": 1,
       "vehicle_id": "3652",
-      "lat": 42.38449478149414,
-      "lon": -83.01078033447266,
-      "bearing": 116,
-      "speed_mph": 37,
-      "updated_at": "2026-11-16T21:21:14.000Z"
+      "lat": 42.45697784423828,
+      "lon": -82.98592376708984,
+      "bearing": 358,
+      "speed_mph": 36,
+      "updated_at": "2026-11-16T21:37:54.000Z"
     },
     {
       "agency": "smart",
@@ -404,11 +404,11 @@
       "trip_id": "3418020",
       "direction_id": 0,
       "vehicle_id": "3773",
-      "lat": 42.547752380371094,
-      "lon": -83.18620300292969,
-      "bearing": 354,
+      "lat": 42.54572296142578,
+      "lon": -83.2119369506836,
+      "bearing": 156,
       "speed_mph": 7,
-      "updated_at": "2026-11-16T21:20:53.000Z"
+      "updated_at": "2026-11-16T21:37:31.000Z"
     },
     {
       "agency": "smart",
@@ -416,11 +416,11 @@
       "trip_id": "2245020",
       "direction_id": 1,
       "vehicle_id": "3774",
-      "lat": 42.535072326660156,
-      "lon": -83.07877349853516,
-      "bearing": 87,
-      "speed_mph": 25,
-      "updated_at": "2026-11-16T21:21:14.000Z"
+      "lat": 42.52136993408203,
+      "lon": -83.00674438476562,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:55.000Z"
     },
     {
       "agency": "smart",
@@ -428,11 +428,11 @@
       "trip_id": "606020",
       "direction_id": 0,
       "vehicle_id": "3653",
-      "lat": 42.39256286621094,
-      "lon": -82.90941619873047,
-      "bearing": 243,
-      "speed_mph": 24,
-      "updated_at": "2026-11-16T21:20:53.000Z"
+      "lat": 42.36117935180664,
+      "lon": -82.9815444946289,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:46.000Z"
     },
     {
       "agency": "smart",
@@ -440,11 +440,11 @@
       "trip_id": "3519020",
       "direction_id": 0,
       "vehicle_id": "3775",
-      "lat": 42.593509674072266,
-      "lon": -82.87982940673828,
-      "bearing": 198,
-      "speed_mph": 35,
-      "updated_at": "2026-11-16T21:21:01.000Z"
+      "lat": 42.50999450683594,
+      "lon": -82.92854309082031,
+      "bearing": 205,
+      "speed_mph": 37,
+      "updated_at": "2026-11-16T21:37:58.000Z"
     },
     {
       "agency": "smart",
@@ -452,23 +452,35 @@
       "trip_id": "1310020",
       "direction_id": 0,
       "vehicle_id": "3776",
-      "lat": 42.52915573120117,
-      "lon": -82.94266510009766,
-      "bearing": 209,
-      "speed_mph": 41,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "lat": 42.47819137573242,
+      "lon": -83.00611877441406,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:46.000Z"
+    },
+    {
+      "agency": "smart",
+      "route_id": "",
+      "trip_id": "",
+      "direction_id": null,
+      "vehicle_id": "3655",
+      "lat": 42.286048889160156,
+      "lon": -83.33452606201172,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:15.000Z"
     },
     {
       "agency": "smart",
       "route_id": "560",
-      "trip_id": "366020",
-      "direction_id": 0,
+      "trip_id": "2035020",
+      "direction_id": 1,
       "vehicle_id": "3777",
-      "lat": 42.49680709838867,
-      "lon": -82.93712615966797,
+      "lat": 42.4495735168457,
+      "lon": -82.97124481201172,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:53.000Z"
+      "updated_at": "2026-11-16T21:37:48.000Z"
     },
     {
       "agency": "smart",
@@ -476,11 +488,11 @@
       "trip_id": "2939020",
       "direction_id": 1,
       "vehicle_id": "3657",
-      "lat": 42.19710159301758,
-      "lon": -83.25177001953125,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:54.000Z"
+      "lat": 42.26166915893555,
+      "lon": -83.27025604248047,
+      "bearing": 0,
+      "speed_mph": 47,
+      "updated_at": "2026-11-16T21:37:45.000Z"
     },
     {
       "agency": "smart",
@@ -488,11 +500,11 @@
       "trip_id": "674020",
       "direction_id": 1,
       "vehicle_id": "3778",
-      "lat": 42.540828704833984,
-      "lon": -83.13412475585938,
-      "bearing": 10,
-      "speed_mph": 39,
-      "updated_at": "2026-11-16T21:21:03.000Z"
+      "lat": 42.56319808959961,
+      "lon": -83.12749481201172,
+      "bearing": 268,
+      "speed_mph": 35,
+      "updated_at": "2026-11-16T21:37:51.000Z"
     },
     {
       "agency": "smart",
@@ -504,7 +516,7 @@
       "lon": -83.11674499511719,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:55.000Z"
+      "updated_at": "2026-11-16T21:37:31.000Z"
     },
     {
       "agency": "smart",
@@ -512,11 +524,11 @@
       "trip_id": "963020",
       "direction_id": 0,
       "vehicle_id": "3658",
-      "lat": 42.67473220825195,
-      "lon": -82.83257293701172,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:56.000Z"
+      "lat": 42.59678649902344,
+      "lon": -82.87843322753906,
+      "bearing": 100,
+      "speed_mph": 11,
+      "updated_at": "2026-11-16T21:37:54.000Z"
     },
     {
       "agency": "smart",
@@ -524,11 +536,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3903",
-      "lat": 42.19183349609375,
-      "lon": -83.18547821044922,
-      "bearing": 268,
-      "speed_mph": 26,
-      "updated_at": "2026-11-16T21:21:01.000Z"
+      "lat": 42.13965606689453,
+      "lon": -83.23538970947266,
+      "bearing": 262,
+      "speed_mph": 30,
+      "updated_at": "2026-11-16T21:37:18.000Z"
     },
     {
       "agency": "smart",
@@ -536,11 +548,11 @@
       "trip_id": "2290020",
       "direction_id": 0,
       "vehicle_id": "3905",
-      "lat": 42.230735778808594,
-      "lon": -83.19458770751953,
-      "bearing": 178,
-      "speed_mph": 20,
-      "updated_at": "2026-11-16T21:21:22.000Z"
+      "lat": 42.213138580322266,
+      "lon": -83.22694396972656,
+      "bearing": 270,
+      "speed_mph": 27,
+      "updated_at": "2026-11-16T21:37:47.000Z"
     },
     {
       "agency": "smart",
@@ -548,11 +560,11 @@
       "trip_id": "2166020",
       "direction_id": 0,
       "vehicle_id": "3906",
-      "lat": 42.538230895996094,
-      "lon": -83.18013000488281,
+      "lat": 42.518280029296875,
+      "lon": -83.2233657836914,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:55.000Z"
+      "updated_at": "2026-11-16T21:37:49.000Z"
     },
     {
       "agency": "smart",
@@ -560,35 +572,23 @@
       "trip_id": "3253020",
       "direction_id": 1,
       "vehicle_id": "3901",
-      "lat": 42.23887252807617,
-      "lon": -83.33032989501953,
-      "bearing": 88,
-      "speed_mph": 5,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "lat": 42.1967887878418,
+      "lon": -83.29586029052734,
+      "bearing": 86,
+      "speed_mph": 38,
+      "updated_at": "2026-11-16T21:33:19.000Z"
     },
     {
       "agency": "smart",
       "route_id": "305",
-      "trip_id": "1507020",
-      "direction_id": 1,
+      "trip_id": "2113020",
+      "direction_id": 0,
       "vehicle_id": "3913",
-      "lat": 42.474056243896484,
-      "lon": -83.44541931152344,
-      "bearing": 286,
-      "speed_mph": 40,
-      "updated_at": "2026-11-16T21:21:22.000Z"
-    },
-    {
-      "agency": "smart",
-      "route_id": "",
-      "trip_id": "",
-      "direction_id": null,
-      "vehicle_id": "3915",
-      "lat": 42.55353927612305,
-      "lon": -82.88444519042969,
+      "lat": 42.49523162841797,
+      "lon": -83.53986358642578,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:34.000Z"
+      "updated_at": "2026-11-16T21:37:50.000Z"
     },
     {
       "agency": "smart",
@@ -596,11 +596,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3916",
-      "lat": 42.55343246459961,
-      "lon": -83.16089630126953,
+      "lat": 42.55207824707031,
+      "lon": -83.15963745117188,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:59.000Z"
+      "updated_at": "2026-11-16T21:37:04.000Z"
     },
     {
       "agency": "smart",
@@ -612,7 +612,7 @@
       "lon": -83.1609115600586,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:59.000Z"
+      "updated_at": "2026-11-16T21:37:14.000Z"
     },
     {
       "agency": "smart",
@@ -620,11 +620,11 @@
       "trip_id": "2748020",
       "direction_id": 1,
       "vehicle_id": "3919",
-      "lat": 42.36935043334961,
-      "lon": -83.07455444335938,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:05.000Z"
+      "lat": 42.45227813720703,
+      "lon": -83.21157836914062,
+      "bearing": 215,
+      "speed_mph": 28,
+      "updated_at": "2026-11-16T21:37:55.000Z"
     },
     {
       "agency": "smart",
@@ -636,7 +636,7 @@
       "lon": -82.82991027832031,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:11.000Z"
+      "updated_at": "2026-11-16T21:37:39.000Z"
     },
     {
       "agency": "smart",
@@ -648,7 +648,7 @@
       "lon": -83.15462493896484,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:49.000Z"
+      "updated_at": "2026-11-16T21:28:36.000Z"
     },
     {
       "agency": "smart",
@@ -656,23 +656,23 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3924",
-      "lat": 42.482181549072266,
-      "lon": -83.4755859375,
-      "bearing": 269,
-      "speed_mph": 30,
-      "updated_at": "2026-11-16T21:21:01.000Z"
+      "lat": 42.48509979248047,
+      "lon": -83.45654296875,
+      "bearing": 101,
+      "speed_mph": 65,
+      "updated_at": "2026-11-16T21:37:41.000Z"
     },
     {
       "agency": "smart",
       "route_id": "261",
-      "trip_id": "3108020",
-      "direction_id": 1,
+      "trip_id": "617020",
+      "direction_id": 0,
       "vehicle_id": "3925",
-      "lat": 42.330772399902344,
-      "lon": -83.0506591796875,
+      "lat": 42.33498001098633,
+      "lon": -83.03227233886719,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:01.000Z"
+      "updated_at": "2026-11-16T21:37:44.000Z"
     },
     {
       "agency": "smart",
@@ -680,11 +680,11 @@
       "trip_id": "2493020",
       "direction_id": 0,
       "vehicle_id": "3804",
-      "lat": 42.307167053222656,
-      "lon": -83.23563385009766,
-      "bearing": 232,
-      "speed_mph": 17,
-      "updated_at": "2026-11-16T21:21:19.000Z"
+      "lat": 42.32709884643555,
+      "lon": -83.26345825195312,
+      "bearing": 277,
+      "speed_mph": 30,
+      "updated_at": "2026-11-16T21:37:33.000Z"
     },
     {
       "agency": "smart",
@@ -692,11 +692,11 @@
       "trip_id": "135020",
       "direction_id": 1,
       "vehicle_id": "3926",
-      "lat": 42.538543701171875,
-      "lon": -82.90953826904297,
-      "bearing": 25,
-      "speed_mph": 26,
-      "updated_at": "2026-11-16T21:20:24.000Z"
+      "lat": 42.59697723388672,
+      "lon": -82.87725067138672,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:38.000Z"
     },
     {
       "agency": "smart",
@@ -704,11 +704,11 @@
       "trip_id": "2359020",
       "direction_id": 0,
       "vehicle_id": "3805",
-      "lat": 42.318382263183594,
-      "lon": -83.21931457519531,
-      "bearing": 80,
-      "speed_mph": 15,
-      "updated_at": "2026-11-16T21:21:10.000Z"
+      "lat": 42.297607421875,
+      "lon": -83.28688049316406,
+      "bearing": 259,
+      "speed_mph": 37,
+      "updated_at": "2026-11-16T21:37:52.000Z"
     },
     {
       "agency": "smart",
@@ -720,7 +720,7 @@
       "lon": -82.88438415527344,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:40.000Z"
+      "updated_at": "2026-11-16T21:37:23.000Z"
     },
     {
       "agency": "smart",
@@ -728,11 +728,11 @@
       "trip_id": "131020",
       "direction_id": 1,
       "vehicle_id": "3806",
-      "lat": 42.323829650878906,
-      "lon": -83.27227020263672,
-      "bearing": 357,
-      "speed_mph": 8,
-      "updated_at": "2026-11-16T21:20:53.000Z"
+      "lat": 42.40230941772461,
+      "lon": -83.27654266357422,
+      "bearing": 88,
+      "speed_mph": 25,
+      "updated_at": "2026-11-16T21:37:32.000Z"
     },
     {
       "agency": "smart",
@@ -740,11 +740,11 @@
       "trip_id": "1122020",
       "direction_id": 1,
       "vehicle_id": "3807",
-      "lat": 42.49600601196289,
-      "lon": -83.45684051513672,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:04.000Z"
+      "lat": 42.49088668823242,
+      "lon": -83.35812377929688,
+      "bearing": 357,
+      "speed_mph": 15,
+      "updated_at": "2026-11-16T21:37:53.000Z"
     },
     {
       "agency": "smart",
@@ -752,35 +752,35 @@
       "trip_id": "2544020",
       "direction_id": 1,
       "vehicle_id": "3928",
-      "lat": 42.449501037597656,
-      "lon": -82.97313690185547,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:55.000Z"
+      "lat": 42.50027847290039,
+      "lon": -82.93440246582031,
+      "bearing": 25,
+      "speed_mph": 11,
+      "updated_at": "2026-11-16T21:37:48.000Z"
     },
     {
       "agency": "smart",
       "route_id": "525",
-      "trip_id": "1878020",
-      "direction_id": 1,
+      "trip_id": "1542020",
+      "direction_id": 0,
       "vehicle_id": "3929",
-      "lat": 42.54924774169922,
-      "lon": -82.92745971679688,
-      "bearing": 249,
-      "speed_mph": 50,
-      "updated_at": "2026-11-16T21:20:58.000Z"
+      "lat": 42.59579086303711,
+      "lon": -82.901611328125,
+      "bearing": 2,
+      "speed_mph": 11,
+      "updated_at": "2026-11-16T21:37:59.000Z"
     },
     {
       "agency": "smart",
       "route_id": "405",
-      "trip_id": "303020",
-      "direction_id": 0,
+      "trip_id": "610020",
+      "direction_id": 1,
       "vehicle_id": "3808",
-      "lat": 42.54280471801758,
-      "lon": -83.36546325683594,
-      "bearing": 267,
-      "speed_mph": 16,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "lat": 42.558048248291016,
+      "lon": -83.4414291381836,
+      "bearing": 214,
+      "speed_mph": 34,
+      "updated_at": "2026-11-16T21:37:42.000Z"
     },
     {
       "agency": "smart",
@@ -788,23 +788,23 @@
       "trip_id": "2561020",
       "direction_id": 1,
       "vehicle_id": "3920",
-      "lat": 42.485984802246094,
-      "lon": -83.15534210205078,
-      "bearing": 325,
-      "speed_mph": 45,
-      "updated_at": "2026-11-16T21:21:19.000Z"
+      "lat": 42.5843505859375,
+      "lon": -83.24568176269531,
+      "bearing": 67,
+      "speed_mph": 9,
+      "updated_at": "2026-11-16T21:37:40.000Z"
     },
     {
       "agency": "smart",
-      "route_id": "261",
-      "trip_id": "217020",
-      "direction_id": 0,
+      "route_id": "",
+      "trip_id": "",
+      "direction_id": null,
       "vehicle_id": "3921",
-      "lat": 42.20298767089844,
-      "lon": -83.3591079711914,
-      "bearing": 175,
-      "speed_mph": 30,
-      "updated_at": "2026-11-16T21:21:08.000Z"
+      "lat": 42.28557205200195,
+      "lon": -83.34672546386719,
+      "bearing": 79,
+      "speed_mph": 34,
+      "updated_at": "2026-11-16T21:37:17.000Z"
     },
     {
       "agency": "smart",
@@ -816,7 +816,7 @@
       "lon": -83.25138092041016,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:04.000Z"
+      "updated_at": "2026-11-16T21:37:41.000Z"
     },
     {
       "agency": "smart",
@@ -824,11 +824,11 @@
       "trip_id": "399020",
       "direction_id": 0,
       "vehicle_id": "3922",
-      "lat": 42.31024169921875,
-      "lon": -83.2151870727539,
-      "bearing": 195,
-      "speed_mph": 23,
-      "updated_at": "2026-11-16T21:20:57.000Z"
+      "lat": 42.341732025146484,
+      "lon": -83.11663055419922,
+      "bearing": 41,
+      "speed_mph": 6,
+      "updated_at": "2026-11-16T21:37:14.000Z"
     },
     {
       "agency": "smart",
@@ -836,23 +836,23 @@
       "trip_id": "1455020",
       "direction_id": 1,
       "vehicle_id": "3802",
-      "lat": 42.226104736328125,
-      "lon": -83.3463134765625,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:15.000Z"
+      "lat": 42.20869064331055,
+      "lon": -83.35535430908203,
+      "bearing": 210,
+      "speed_mph": 7,
+      "updated_at": "2026-11-16T21:37:53.000Z"
     },
     {
       "agency": "smart",
-      "route_id": "255",
-      "trip_id": "1027020",
-      "direction_id": 0,
+      "route_id": "125",
+      "trip_id": "655020",
+      "direction_id": 1,
       "vehicle_id": "3923",
-      "lat": 42.32638168334961,
-      "lon": -83.30187225341797,
-      "bearing": 270,
-      "speed_mph": 26,
-      "updated_at": "2026-11-16T21:21:07.000Z"
+      "lat": 42.323211669921875,
+      "lon": -83.4019546508789,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:32.000Z"
     },
     {
       "agency": "smart",
@@ -860,23 +860,23 @@
       "trip_id": "38020",
       "direction_id": 1,
       "vehicle_id": "3020",
-      "lat": 42.44712448120117,
-      "lon": -83.20538330078125,
-      "bearing": 329,
-      "speed_mph": 5,
-      "updated_at": "2026-11-16T21:21:04.000Z"
+      "lat": 42.526920318603516,
+      "lon": -83.22374725341797,
+      "bearing": 358,
+      "speed_mph": 37,
+      "updated_at": "2026-11-16T21:37:55.000Z"
     },
     {
       "agency": "smart",
       "route_id": "550",
-      "trip_id": "2810020",
-      "direction_id": 1,
+      "trip_id": "82020",
+      "direction_id": 0,
       "vehicle_id": "3935",
-      "lat": 42.59815216064453,
-      "lon": -82.95234680175781,
+      "lat": 42.620418548583984,
+      "lon": -82.98877716064453,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:05.000Z"
+      "updated_at": "2026-11-16T21:38:01.000Z"
     },
     {
       "agency": "smart",
@@ -884,11 +884,11 @@
       "trip_id": "165020",
       "direction_id": 1,
       "vehicle_id": "3815",
-      "lat": 42.32838821411133,
-      "lon": -83.0473861694336,
-      "bearing": null,
-      "speed_mph": 1,
-      "updated_at": "2026-11-16T21:20:50.000Z"
+      "lat": 42.36708450317383,
+      "lon": -82.97041320800781,
+      "bearing": 57,
+      "speed_mph": 30,
+      "updated_at": "2026-11-16T21:38:00.000Z"
     },
     {
       "agency": "smart",
@@ -896,11 +896,11 @@
       "trip_id": "369020",
       "direction_id": 1,
       "vehicle_id": "3937",
-      "lat": 42.3918571472168,
-      "lon": -82.89231872558594,
-      "bearing": 28,
-      "speed_mph": 36,
-      "updated_at": "2026-11-16T21:21:13.000Z"
+      "lat": 42.51100540161133,
+      "lon": -82.8802719116211,
+      "bearing": 13,
+      "speed_mph": 15,
+      "updated_at": "2026-11-16T21:37:57.000Z"
     },
     {
       "agency": "smart",
@@ -908,11 +908,11 @@
       "trip_id": "1187020",
       "direction_id": 0,
       "vehicle_id": "3019",
-      "lat": 42.44426727294922,
-      "lon": -83.11674499511719,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "lat": 42.44643020629883,
+      "lon": -83.14025115966797,
+      "bearing": 268,
+      "speed_mph": 34,
+      "updated_at": "2026-11-16T21:37:55.000Z"
     },
     {
       "agency": "smart",
@@ -920,11 +920,11 @@
       "trip_id": "1139020",
       "direction_id": 1,
       "vehicle_id": "3938",
-      "lat": 42.46044158935547,
-      "lon": -83.14111328125,
+      "lat": 42.46225357055664,
+      "lon": -83.06372833251953,
       "bearing": 88,
-      "speed_mph": 28,
-      "updated_at": "2026-11-16T21:21:19.000Z"
+      "speed_mph": 15,
+      "updated_at": "2026-11-16T21:37:55.000Z"
     },
     {
       "agency": "smart",
@@ -932,11 +932,11 @@
       "trip_id": "583020",
       "direction_id": 0,
       "vehicle_id": "3817",
-      "lat": 42.37563705444336,
-      "lon": -83.29508972167969,
+      "lat": 42.31340408325195,
+      "lon": -83.33057403564453,
       "bearing": 178,
-      "speed_mph": 35,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "speed_mph": 18,
+      "updated_at": "2026-11-16T21:38:00.000Z"
     },
     {
       "agency": "smart",
@@ -944,11 +944,11 @@
       "trip_id": "3115020",
       "direction_id": 0,
       "vehicle_id": "3818",
-      "lat": 42.47916793823242,
-      "lon": -83.28549194335938,
+      "lat": 42.42888259887695,
+      "lon": -83.27852630615234,
       "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:11.000Z"
+      "speed_mph": 3,
+      "updated_at": "2026-11-16T21:37:59.000Z"
     },
     {
       "agency": "smart",
@@ -956,23 +956,23 @@
       "trip_id": "288020",
       "direction_id": 1,
       "vehicle_id": "3819",
-      "lat": 42.502845764160156,
-      "lon": -83.2064437866211,
-      "bearing": 88,
-      "speed_mph": 24,
-      "updated_at": "2026-11-16T21:21:06.000Z"
+      "lat": 42.48982238769531,
+      "lon": -83.14460754394531,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:59.000Z"
     },
     {
       "agency": "smart",
-      "route_id": "730",
-      "trip_id": "1712020",
-      "direction_id": 1,
+      "route_id": "",
+      "trip_id": "",
+      "direction_id": null,
       "vehicle_id": "3930",
-      "lat": 42.4327392578125,
-      "lon": -82.9087142944336,
-      "bearing": 188,
-      "speed_mph": 7,
-      "updated_at": "2026-11-16T21:21:03.000Z"
+      "lat": 42.53038787841797,
+      "lon": -82.91482543945312,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:18.000Z"
     },
     {
       "agency": "smart",
@@ -980,11 +980,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3810",
-      "lat": 42.33650207519531,
-      "lon": -83.12689971923828,
-      "bearing": 61,
-      "speed_mph": 55,
-      "updated_at": "2026-11-16T21:20:51.000Z"
+      "lat": 42.333194732666016,
+      "lon": -83.0373306274414,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:29.000Z"
     },
     {
       "agency": "smart",
@@ -992,23 +992,23 @@
       "trip_id": "715020",
       "direction_id": 0,
       "vehicle_id": "3931",
-      "lat": 42.62251663208008,
-      "lon": -83.28209686279297,
+      "lat": 42.5672607421875,
+      "lon": -83.22997283935547,
       "bearing": 145,
-      "speed_mph": 24,
-      "updated_at": "2026-11-16T21:20:55.000Z"
+      "speed_mph": 31,
+      "updated_at": "2026-11-16T21:37:41.000Z"
     },
     {
       "agency": "smart",
       "route_id": "710",
-      "trip_id": "132020",
-      "direction_id": 1,
+      "trip_id": "1682020",
+      "direction_id": 0,
       "vehicle_id": "3932",
-      "lat": 42.41888427734375,
-      "lon": -82.91056060791016,
-      "bearing": 184,
-      "speed_mph": 26,
-      "updated_at": "2026-11-16T21:21:00.000Z"
+      "lat": 42.45377731323242,
+      "lon": -82.90338134765625,
+      "bearing": 18,
+      "speed_mph": 41,
+      "updated_at": "2026-11-16T21:37:57.000Z"
     },
     {
       "agency": "smart",
@@ -1016,35 +1016,35 @@
       "trip_id": "2753020",
       "direction_id": 1,
       "vehicle_id": "3933",
-      "lat": 42.469356536865234,
-      "lon": -83.10428619384766,
-      "bearing": 357,
-      "speed_mph": 15,
-      "updated_at": "2026-11-16T21:21:14.000Z"
+      "lat": 42.53458023071289,
+      "lon": -83.1069107055664,
+      "bearing": 359,
+      "speed_mph": 22,
+      "updated_at": "2026-11-16T21:37:44.000Z"
     },
     {
       "agency": "smart",
-      "route_id": "",
-      "trip_id": "",
-      "direction_id": null,
+      "route_id": "560",
+      "trip_id": "1368020",
+      "direction_id": 0,
       "vehicle_id": "3812",
-      "lat": 42.59644317626953,
-      "lon": -82.87757110595703,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:46.000Z"
+      "lat": 42.59745788574219,
+      "lon": -82.88081359863281,
+      "bearing": 183,
+      "speed_mph": 7,
+      "updated_at": "2026-11-16T21:37:31.000Z"
     },
     {
       "agency": "smart",
       "route_id": "510",
-      "trip_id": "2603020",
-      "direction_id": 0,
+      "trip_id": "1600020",
+      "direction_id": 1,
       "vehicle_id": "3813",
-      "lat": 42.476871490478516,
-      "lon": -83.02719116210938,
-      "bearing": 178,
-      "speed_mph": 18,
-      "updated_at": "2026-11-16T21:21:08.000Z"
+      "lat": 42.44831466674805,
+      "lon": -83.01949310302734,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:56.000Z"
     },
     {
       "agency": "smart",
@@ -1056,7 +1056,7 @@
       "lon": -83.3362045288086,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:39.000Z"
+      "updated_at": "2026-11-16T21:37:14.000Z"
     },
     {
       "agency": "smart",
@@ -1068,7 +1068,7 @@
       "lon": -83.16089630126953,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:58.000Z"
+      "updated_at": "2026-11-16T21:37:12.000Z"
     },
     {
       "agency": "smart",
@@ -1076,11 +1076,11 @@
       "trip_id": "124020",
       "direction_id": 1,
       "vehicle_id": "3825",
-      "lat": 42.33190155029297,
-      "lon": -83.05287170410156,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:59.000Z"
+      "lat": 42.346336364746094,
+      "lon": -83.00313568115234,
+      "bearing": 67,
+      "speed_mph": 6,
+      "updated_at": "2026-11-16T21:37:48.000Z"
     },
     {
       "agency": "smart",
@@ -1088,11 +1088,11 @@
       "trip_id": "2314020",
       "direction_id": 1,
       "vehicle_id": "3826",
-      "lat": 42.2513427734375,
-      "lon": -83.1803207397461,
-      "bearing": 292,
-      "speed_mph": 39,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "lat": 42.287208557128906,
+      "lon": -83.20209503173828,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:48.000Z"
     },
     {
       "agency": "smart",
@@ -1100,11 +1100,11 @@
       "trip_id": "1952020",
       "direction_id": 1,
       "vehicle_id": "3705",
-      "lat": 42.63809585571289,
-      "lon": -83.27203369140625,
-      "bearing": 88,
-      "speed_mph": 15,
-      "updated_at": "2026-11-16T21:20:54.000Z"
+      "lat": 42.67251968383789,
+      "lon": -83.22095489501953,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:40.000Z"
     },
     {
       "agency": "smart",
@@ -1112,11 +1112,11 @@
       "trip_id": "2335020",
       "direction_id": 0,
       "vehicle_id": "3827",
-      "lat": 42.32653045654297,
-      "lon": -83.29508972167969,
-      "bearing": 267,
-      "speed_mph": 42,
-      "updated_at": "2026-11-16T21:21:20.000Z"
+      "lat": 42.334842681884766,
+      "lon": -83.40675354003906,
+      "bearing": 233,
+      "speed_mph": 26,
+      "updated_at": "2026-11-16T21:37:51.000Z"
     },
     {
       "agency": "smart",
@@ -1124,11 +1124,11 @@
       "trip_id": "2716020",
       "direction_id": 0,
       "vehicle_id": "3706",
-      "lat": 42.46080780029297,
-      "lon": -83.12625122070312,
-      "bearing": 265,
-      "speed_mph": 24,
-      "updated_at": "2026-11-16T21:21:02.000Z"
+      "lat": 42.4593505859375,
+      "lon": -83.20152282714844,
+      "bearing": 267,
+      "speed_mph": 25,
+      "updated_at": "2026-11-16T21:37:45.000Z"
     },
     {
       "agency": "smart",
@@ -1136,11 +1136,11 @@
       "trip_id": "2013020",
       "direction_id": 1,
       "vehicle_id": "3828",
-      "lat": 42.2596321105957,
-      "lon": -83.3479995727539,
-      "bearing": 358,
-      "speed_mph": 45,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "lat": 42.30238342285156,
+      "lon": -83.26043701171875,
+      "bearing": 72,
+      "speed_mph": 25,
+      "updated_at": "2026-11-16T21:37:41.000Z"
     },
     {
       "agency": "smart",
@@ -1148,11 +1148,11 @@
       "trip_id": "2100020",
       "direction_id": 0,
       "vehicle_id": "3708",
-      "lat": 42.59088134765625,
-      "lon": -82.95217895507812,
-      "bearing": 178,
-      "speed_mph": 22,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "lat": 42.53910827636719,
+      "lon": -82.9096450805664,
+      "bearing": 203,
+      "speed_mph": 17,
+      "updated_at": "2026-11-16T21:37:49.000Z"
     },
     {
       "agency": "smart",
@@ -1160,35 +1160,35 @@
       "trip_id": "2605020",
       "direction_id": 1,
       "vehicle_id": "3829",
-      "lat": 42.22623825073242,
-      "lon": -83.34632110595703,
+      "lat": 42.22609329223633,
+      "lon": -83.3463363647461,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:52.000Z"
+      "updated_at": "2026-11-16T21:37:57.000Z"
     },
     {
       "agency": "smart",
       "route_id": "615",
-      "trip_id": "338020",
-      "direction_id": 0,
+      "trip_id": "593020",
+      "direction_id": 1,
       "vehicle_id": "3709",
-      "lat": 42.41716003417969,
-      "lon": -82.91075897216797,
-      "bearing": 297,
+      "lat": 42.45294189453125,
+      "lon": -82.90369415283203,
+      "bearing": 14,
       "speed_mph": 27,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "updated_at": "2026-11-16T21:37:58.000Z"
     },
     {
       "agency": "smart",
       "route_id": "492",
-      "trip_id": "3321020",
-      "direction_id": 1,
+      "trip_id": "2059020",
+      "direction_id": 0,
       "vehicle_id": "3820",
-      "lat": 42.68069839477539,
-      "lon": -83.1936264038086,
-      "bearing": 2,
-      "speed_mph": 12,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "lat": 42.6728401184082,
+      "lon": -83.21808624267578,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:35.000Z"
     },
     {
       "agency": "smart",
@@ -1196,11 +1196,11 @@
       "trip_id": "392020",
       "direction_id": 0,
       "vehicle_id": "3821",
-      "lat": 42.27378845214844,
-      "lon": -83.13431549072266,
+      "lat": 42.273738861083984,
+      "lon": -83.13433074951172,
       "bearing": null,
-      "speed_mph": 2,
-      "updated_at": "2026-11-16T21:21:19.000Z"
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:56.000Z"
     },
     {
       "agency": "smart",
@@ -1208,11 +1208,11 @@
       "trip_id": "343020",
       "direction_id": 0,
       "vehicle_id": "3701",
-      "lat": 42.46512985229492,
-      "lon": -82.93815612792969,
-      "bearing": 270,
-      "speed_mph": 31,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "lat": 42.46318054199219,
+      "lon": -83.02791595458984,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:46.000Z"
     },
     {
       "agency": "smart",
@@ -1224,7 +1224,7 @@
       "lon": -83.1600112915039,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:00.000Z"
+      "updated_at": "2026-11-16T21:37:08.000Z"
     },
     {
       "agency": "smart",
@@ -1232,11 +1232,11 @@
       "trip_id": "3142020",
       "direction_id": 0,
       "vehicle_id": "3702",
-      "lat": 42.63450241088867,
-      "lon": -83.17052459716797,
+      "lat": 42.56221389770508,
+      "lon": -83.15103912353516,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:05.000Z"
+      "updated_at": "2026-11-16T21:37:58.000Z"
     },
     {
       "agency": "smart",
@@ -1244,11 +1244,11 @@
       "trip_id": "2680020",
       "direction_id": 1,
       "vehicle_id": "3823",
-      "lat": 42.54427719116211,
-      "lon": -83.30702209472656,
+      "lat": 42.5468635559082,
+      "lon": -83.20841979980469,
       "bearing": 88,
-      "speed_mph": 39,
-      "updated_at": "2026-11-16T21:21:14.000Z"
+      "speed_mph": 19,
+      "updated_at": "2026-11-16T21:37:33.000Z"
     },
     {
       "agency": "smart",
@@ -1260,7 +1260,7 @@
       "lon": -83.16017150878906,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:56.000Z"
+      "updated_at": "2026-11-16T21:37:20.000Z"
     },
     {
       "agency": "smart",
@@ -1272,31 +1272,31 @@
       "lon": -83.16085815429688,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:42.000Z"
+      "updated_at": "2026-11-16T21:37:15.000Z"
+    },
+    {
+      "agency": "smart",
+      "route_id": "461",
+      "trip_id": "386020",
+      "direction_id": 1,
+      "vehicle_id": "4011",
+      "lat": 42.357364654541016,
+      "lon": -83.06462097167969,
+      "bearing": null,
+      "speed_mph": 1,
+      "updated_at": "2026-11-16T21:37:58.000Z"
     },
     {
       "agency": "smart",
       "route_id": "462",
-      "trip_id": "1365020",
+      "trip_id": "685020",
       "direction_id": 0,
-      "vehicle_id": "4011",
-      "lat": 42.32819747924805,
-      "lon": -83.04878997802734,
+      "vehicle_id": "4012",
+      "lat": 42.706932067871094,
+      "lon": -83.2891845703125,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:08.000Z"
-    },
-    {
-      "agency": "smart",
-      "route_id": "462",
-      "trip_id": "1627020",
-      "direction_id": 1,
-      "vehicle_id": "4012",
-      "lat": 42.70354080200195,
-      "lon": -83.30667114257812,
-      "bearing": 357,
-      "speed_mph": 9,
-      "updated_at": "2026-11-16T21:21:13.000Z"
+      "updated_at": "2026-11-16T21:37:57.000Z"
     },
     {
       "agency": "smart",
@@ -1304,11 +1304,11 @@
       "trip_id": "896020",
       "direction_id": 1,
       "vehicle_id": "4013",
-      "lat": 42.400779724121094,
-      "lon": -83.09380340576172,
-      "bearing": 332,
-      "speed_mph": 25,
-      "updated_at": "2026-11-16T21:20:58.000Z"
+      "lat": 42.454586029052734,
+      "lon": -83.13023376464844,
+      "bearing": 333,
+      "speed_mph": 19,
+      "updated_at": "2026-11-16T21:37:44.000Z"
     },
     {
       "agency": "smart",
@@ -1316,23 +1316,23 @@
       "trip_id": "3367020",
       "direction_id": 0,
       "vehicle_id": "3836",
-      "lat": 42.66926956176758,
-      "lon": -83.05309295654297,
+      "lat": 42.62656021118164,
+      "lon": -83.03246307373047,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "updated_at": "2026-11-16T21:37:32.000Z"
     },
     {
       "agency": "smart",
       "route_id": "305",
-      "trip_id": "1083020",
-      "direction_id": 0,
+      "trip_id": "2484020",
+      "direction_id": 1,
       "vehicle_id": "3715",
-      "lat": 42.425193786621094,
-      "lon": -83.27977752685547,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:20.000Z"
+      "lat": 42.42805480957031,
+      "lon": -83.28596496582031,
+      "bearing": 299,
+      "speed_mph": 18,
+      "updated_at": "2026-11-16T21:37:52.000Z"
     },
     {
       "agency": "smart",
@@ -1340,11 +1340,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3717",
-      "lat": 42.55366134643555,
-      "lon": -83.16059875488281,
+      "lat": 42.55302810668945,
+      "lon": -83.16056823730469,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:13:27.000Z"
+      "updated_at": "2026-11-16T21:37:12.000Z"
     },
     {
       "agency": "smart",
@@ -1352,11 +1352,11 @@
       "trip_id": "739020",
       "direction_id": 1,
       "vehicle_id": "3838",
-      "lat": 42.32792282104492,
-      "lon": -83.04694366455078,
-      "bearing": 257,
-      "speed_mph": 8,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "lat": 42.387176513671875,
+      "lon": -83.00916290283203,
+      "bearing": 26,
+      "speed_mph": 46,
+      "updated_at": "2026-11-16T21:37:39.000Z"
     },
     {
       "agency": "smart",
@@ -1364,11 +1364,11 @@
       "trip_id": "3259020",
       "direction_id": 1,
       "vehicle_id": "3718",
-      "lat": 42.49702453613281,
-      "lon": -83.54328918457031,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:14.000Z"
+      "lat": 42.49502944946289,
+      "lon": -83.53959655761719,
+      "bearing": 42,
+      "speed_mph": 16,
+      "updated_at": "2026-11-16T21:37:37.000Z"
     },
     {
       "agency": "smart",
@@ -1376,11 +1376,11 @@
       "trip_id": "2307020",
       "direction_id": 1,
       "vehicle_id": "3839",
-      "lat": 42.48772048950195,
-      "lon": -82.94261932373047,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:55.000Z"
+      "lat": 42.545867919921875,
+      "lon": -82.90472412109375,
+      "bearing": 25,
+      "speed_mph": 16,
+      "updated_at": "2026-11-16T21:37:59.000Z"
     },
     {
       "agency": "smart",
@@ -1390,9 +1390,9 @@
       "vehicle_id": "3719",
       "lat": 42.44426727294922,
       "lon": -83.11683654785156,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:12.000Z"
+      "bearing": 359,
+      "speed_mph": 7,
+      "updated_at": "2026-11-16T21:38:00.000Z"
     },
     {
       "agency": "smart",
@@ -1404,7 +1404,7 @@
       "lon": -83.33613586425781,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:57.000Z"
+      "updated_at": "2026-11-16T21:37:09.000Z"
     },
     {
       "agency": "smart",
@@ -1412,11 +1412,11 @@
       "trip_id": "999020",
       "direction_id": 0,
       "vehicle_id": "3831",
-      "lat": 42.27457809448242,
-      "lon": -83.13381958007812,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:12.000Z"
+      "lat": 42.260169982910156,
+      "lon": -83.16641235351562,
+      "bearing": 341,
+      "speed_mph": 36,
+      "updated_at": "2026-11-16T21:37:54.000Z"
     },
     {
       "agency": "smart",
@@ -1428,7 +1428,7 @@
       "lon": -83.33621978759766,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:58.000Z"
+      "updated_at": "2026-11-16T21:37:30.000Z"
     },
     {
       "agency": "smart",
@@ -1440,7 +1440,7 @@
       "lon": -83.16030883789062,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:47.000Z"
+      "updated_at": "2026-11-16T21:37:29.000Z"
     },
     {
       "agency": "smart",
@@ -1448,11 +1448,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3711",
-      "lat": 42.23154067993164,
-      "lon": -83.32752227783203,
-      "bearing": 358,
-      "speed_mph": 32,
-      "updated_at": "2026-11-16T21:20:53.000Z"
+      "lat": 42.285736083984375,
+      "lon": -83.3350830078125,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:07.000Z"
     },
     {
       "agency": "smart",
@@ -1460,11 +1460,11 @@
       "trip_id": "2050020",
       "direction_id": 1,
       "vehicle_id": "3833",
-      "lat": 42.44426727294922,
-      "lon": -83.11683654785156,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:19.000Z"
+      "lat": 42.51065444946289,
+      "lon": -83.17903900146484,
+      "bearing": 324,
+      "speed_mph": 35,
+      "updated_at": "2026-11-16T21:37:56.000Z"
     },
     {
       "agency": "smart",
@@ -1472,11 +1472,11 @@
       "trip_id": "2551020",
       "direction_id": 0,
       "vehicle_id": "3834",
-      "lat": 42.54401397705078,
-      "lon": -83.21017456054688,
-      "bearing": 158,
-      "speed_mph": 19,
-      "updated_at": "2026-11-16T21:21:07.000Z"
+      "lat": 42.461509704589844,
+      "lon": -83.13545989990234,
+      "bearing": 153,
+      "speed_mph": 15,
+      "updated_at": "2026-11-16T21:37:59.000Z"
     },
     {
       "agency": "smart",
@@ -1484,11 +1484,11 @@
       "trip_id": "3558020",
       "direction_id": 0,
       "vehicle_id": "3713",
-      "lat": 42.33378982543945,
-      "lon": -83.03565216064453,
+      "lat": 42.332679748535156,
+      "lon": -83.0400390625,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:56.000Z"
+      "updated_at": "2026-11-16T21:37:35.000Z"
     },
     {
       "agency": "smart",
@@ -1500,7 +1500,7 @@
       "lon": -83.16027069091797,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:46.000Z"
+      "updated_at": "2026-11-16T21:37:20.000Z"
     },
     {
       "agency": "smart",
@@ -1508,11 +1508,11 @@
       "trip_id": "1298020",
       "direction_id": 0,
       "vehicle_id": "3714",
-      "lat": 42.33168029785156,
-      "lon": -83.06035614013672,
-      "bearing": 267,
-      "speed_mph": 28,
-      "updated_at": "2026-11-16T21:21:11.000Z"
+      "lat": 42.238399505615234,
+      "lon": -83.19517517089844,
+      "bearing": 177,
+      "speed_mph": 26,
+      "updated_at": "2026-11-16T21:37:46.000Z"
     },
     {
       "agency": "smart",
@@ -1520,11 +1520,11 @@
       "trip_id": "2968020",
       "direction_id": 1,
       "vehicle_id": "4022",
-      "lat": 42.44832992553711,
-      "lon": -83.01870727539062,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:16.000Z"
+      "lat": 42.4995231628418,
+      "lon": -83.0280532836914,
+      "bearing": 358,
+      "speed_mph": 9,
+      "updated_at": "2026-11-16T21:37:52.000Z"
     },
     {
       "agency": "smart",
@@ -1532,11 +1532,11 @@
       "trip_id": "139020",
       "direction_id": 0,
       "vehicle_id": "3726",
-      "lat": 42.216739654541016,
-      "lon": -83.18122863769531,
-      "bearing": 94,
-      "speed_mph": 15,
-      "updated_at": "2026-11-16T21:21:11.000Z"
+      "lat": 42.19784164428711,
+      "lon": -83.25637817382812,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:40.000Z"
     },
     {
       "agency": "smart",
@@ -1544,11 +1544,11 @@
       "trip_id": "1742020",
       "direction_id": 0,
       "vehicle_id": "3603",
-      "lat": 42.3316764831543,
-      "lon": -83.05299377441406,
+      "lat": 42.32163619995117,
+      "lon": -83.17781066894531,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:14.000Z"
+      "updated_at": "2026-11-16T21:37:57.000Z"
     },
     {
       "agency": "smart",
@@ -1556,11 +1556,11 @@
       "trip_id": "2264020",
       "direction_id": 0,
       "vehicle_id": "3727",
-      "lat": 42.38544845581055,
-      "lon": -83.29293823242188,
-      "bearing": 270,
-      "speed_mph": 7,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "lat": 42.44477844238281,
+      "lon": -83.32763671875,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:59.000Z"
     },
     {
       "agency": "smart",
@@ -1568,11 +1568,11 @@
       "trip_id": "2575020",
       "direction_id": 0,
       "vehicle_id": "3728",
-      "lat": 42.307125091552734,
-      "lon": -83.24028015136719,
-      "bearing": 252,
-      "speed_mph": 9,
-      "updated_at": "2026-11-16T21:21:13.000Z"
+      "lat": 42.289466857910156,
+      "lon": -83.33015441894531,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:56.000Z"
     },
     {
       "agency": "smart",
@@ -1580,23 +1580,23 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3602",
-      "lat": 42.1983642578125,
-      "lon": -83.23918914794922,
-      "bearing": 266,
-      "speed_mph": 18,
-      "updated_at": "2026-11-16T21:21:00.000Z"
+      "lat": 42.213417053222656,
+      "lon": -83.21080017089844,
+      "bearing": 88,
+      "speed_mph": 30,
+      "updated_at": "2026-11-16T21:37:50.000Z"
     },
     {
       "agency": "smart",
-      "route_id": "",
-      "trip_id": "",
-      "direction_id": null,
+      "route_id": "200",
+      "trip_id": "289020",
+      "direction_id": 1,
       "vehicle_id": "3729",
-      "lat": 42.28577423095703,
-      "lon": -83.33482360839844,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:43.000Z"
+      "lat": 42.28947448730469,
+      "lon": -83.3287353515625,
+      "bearing": 71,
+      "speed_mph": 27,
+      "updated_at": "2026-11-16T21:37:57.000Z"
     },
     {
       "agency": "smart",
@@ -1604,11 +1604,11 @@
       "trip_id": "2407020",
       "direction_id": 0,
       "vehicle_id": "4015",
-      "lat": 42.43446350097656,
-      "lon": -83.11699676513672,
+      "lat": 42.37112808227539,
+      "lon": -83.07398986816406,
       "bearing": 153,
-      "speed_mph": 16,
-      "updated_at": "2026-11-16T21:21:10.000Z"
+      "speed_mph": 30,
+      "updated_at": "2026-11-16T21:37:53.000Z"
     },
     {
       "agency": "smart",
@@ -1620,7 +1620,7 @@
       "lon": -83.33464813232422,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:39.000Z"
+      "updated_at": "2026-11-16T21:37:26.000Z"
     },
     {
       "agency": "smart",
@@ -1628,23 +1628,23 @@
       "trip_id": "2438020",
       "direction_id": 0,
       "vehicle_id": "4017",
-      "lat": 42.55363464355469,
-      "lon": -82.90038299560547,
-      "bearing": 201,
-      "speed_mph": 24,
-      "updated_at": "2026-11-16T21:21:12.000Z"
+      "lat": 42.46995544433594,
+      "lon": -82.9547348022461,
+      "bearing": 205,
+      "speed_mph": 39,
+      "updated_at": "2026-11-16T21:37:42.000Z"
     },
     {
       "agency": "smart",
       "route_id": "710",
-      "trip_id": "1026020",
-      "direction_id": 0,
+      "trip_id": "461020",
+      "direction_id": 1,
       "vehicle_id": "3721",
-      "lat": 42.45882034301758,
-      "lon": -83.22293853759766,
+      "lat": 42.45832443237305,
+      "lon": -83.23919677734375,
       "bearing": null,
-      "speed_mph": 2,
-      "updated_at": "2026-11-16T21:21:05.000Z"
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:58.000Z"
     },
     {
       "agency": "smart",
@@ -1652,11 +1652,11 @@
       "trip_id": "2921020",
       "direction_id": 0,
       "vehicle_id": "4018",
-      "lat": 42.67462158203125,
-      "lon": -82.82984924316406,
+      "lat": 42.67596435546875,
+      "lon": -82.83040618896484,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:13.000Z"
+      "updated_at": "2026-11-16T21:37:51.000Z"
     },
     {
       "agency": "smart",
@@ -1664,23 +1664,23 @@
       "trip_id": "3084020",
       "direction_id": 1,
       "vehicle_id": "3609",
-      "lat": 42.501522064208984,
-      "lon": -83.26232147216797,
+      "lat": 42.5178337097168,
+      "lon": -83.18816375732422,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:04.000Z"
+      "updated_at": "2026-11-16T21:37:55.000Z"
     },
     {
       "agency": "smart",
-      "route_id": "620",
-      "trip_id": "2304020",
+      "route_id": "635",
+      "trip_id": "3000020",
       "direction_id": 1,
       "vehicle_id": "3722",
-      "lat": 42.50934982299805,
-      "lon": -82.90816497802734,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:54.000Z"
+      "lat": 42.42915344238281,
+      "lon": -82.92543029785156,
+      "bearing": 205,
+      "speed_mph": 67,
+      "updated_at": "2026-11-16T21:37:26.000Z"
     },
     {
       "agency": "smart",
@@ -1688,11 +1688,11 @@
       "trip_id": "2000020",
       "direction_id": 0,
       "vehicle_id": "3607",
-      "lat": 42.399658203125,
-      "lon": -83.00093078613281,
-      "bearing": 205,
-      "speed_mph": 30,
-      "updated_at": "2026-11-16T21:21:15.000Z"
+      "lat": 42.33028793334961,
+      "lon": -83.04248809814453,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:59.000Z"
     },
     {
       "agency": "smart",
@@ -1700,11 +1700,11 @@
       "trip_id": "418020",
       "direction_id": 1,
       "vehicle_id": "3724",
-      "lat": 42.534576416015625,
-      "lon": -83.08686065673828,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:48.000Z"
+      "lat": 42.63792419433594,
+      "lon": -83.09711456298828,
+      "bearing": 344,
+      "speed_mph": 16,
+      "updated_at": "2026-11-16T21:37:17.000Z"
     },
     {
       "agency": "smart",
@@ -1712,11 +1712,11 @@
       "trip_id": "2842020",
       "direction_id": 0,
       "vehicle_id": "3606",
-      "lat": 42.636844635009766,
-      "lon": -83.29120635986328,
-      "bearing": 254,
-      "speed_mph": 4,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "lat": 42.56941604614258,
+      "lon": -83.23199462890625,
+      "bearing": 145,
+      "speed_mph": 39,
+      "updated_at": "2026-11-16T21:37:39.000Z"
     },
     {
       "agency": "smart",
@@ -1724,11 +1724,11 @@
       "trip_id": "1150020",
       "direction_id": 1,
       "vehicle_id": "3605",
-      "lat": 42.333839416503906,
-      "lon": -83.05079650878906,
-      "bearing": 359,
-      "speed_mph": 32,
-      "updated_at": "2026-11-16T21:21:13.000Z"
+      "lat": 42.39301300048828,
+      "lon": -83.08857727050781,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:46.000Z"
     },
     {
       "agency": "smart",
@@ -1736,11 +1736,11 @@
       "trip_id": "1013020",
       "direction_id": 0,
       "vehicle_id": "3725",
-      "lat": 42.478431701660156,
-      "lon": -82.9842758178711,
-      "bearing": 264,
-      "speed_mph": 25,
-      "updated_at": "2026-11-16T21:21:03.000Z"
+      "lat": 42.47663116455078,
+      "lon": -83.08452606201172,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:51.000Z"
     },
     {
       "agency": "smart",
@@ -1748,11 +1748,11 @@
       "trip_id": "3322020",
       "direction_id": 1,
       "vehicle_id": "3737",
-      "lat": 42.59752655029297,
-      "lon": -82.87630462646484,
-      "bearing": null,
-      "speed_mph": 3,
-      "updated_at": "2026-11-16T21:21:03.000Z"
+      "lat": 42.6477165222168,
+      "lon": -82.85175323486328,
+      "bearing": 20,
+      "speed_mph": 50,
+      "updated_at": "2026-11-16T21:37:53.000Z"
     },
     {
       "agency": "smart",
@@ -1764,7 +1764,7 @@
       "lon": -83.16044616699219,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:39.000Z"
+      "updated_at": "2026-11-16T21:37:16.000Z"
     },
     {
       "agency": "smart",
@@ -1772,11 +1772,11 @@
       "trip_id": "2784020",
       "direction_id": 0,
       "vehicle_id": "3738",
-      "lat": 42.40239334106445,
-      "lon": -83.05278015136719,
-      "bearing": 243,
-      "speed_mph": 7,
-      "updated_at": "2026-11-16T21:21:04.000Z"
+      "lat": 42.36656951904297,
+      "lon": -83.06806945800781,
+      "bearing": 153,
+      "speed_mph": 16,
+      "updated_at": "2026-11-16T21:37:31.000Z"
     },
     {
       "agency": "smart",
@@ -1784,11 +1784,11 @@
       "trip_id": "1022020",
       "direction_id": 0,
       "vehicle_id": "3614",
-      "lat": 42.49198913574219,
-      "lon": -83.14440155029297,
+      "lat": 42.44815444946289,
+      "lon": -83.12252044677734,
       "bearing": 178,
-      "speed_mph": 32,
-      "updated_at": "2026-11-16T21:21:20.000Z"
+      "speed_mph": 26,
+      "updated_at": "2026-11-16T21:37:42.000Z"
     },
     {
       "agency": "smart",
@@ -1796,11 +1796,11 @@
       "trip_id": "2924020",
       "direction_id": 0,
       "vehicle_id": "3613",
-      "lat": 42.55245590209961,
-      "lon": -82.9843978881836,
-      "bearing": 266,
-      "speed_mph": 32,
-      "updated_at": "2026-11-16T21:21:22.000Z"
+      "lat": 42.549400329589844,
+      "lon": -83.08786010742188,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:46.000Z"
     },
     {
       "agency": "smart",
@@ -1808,11 +1808,11 @@
       "trip_id": "2550020",
       "direction_id": 0,
       "vehicle_id": "3739",
-      "lat": 42.52350616455078,
-      "lon": -83.02883911132812,
+      "lat": 42.53905487060547,
+      "lon": -83.10723114013672,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:00.000Z"
+      "updated_at": "2026-11-16T21:37:50.000Z"
     },
     {
       "agency": "smart",
@@ -1820,35 +1820,35 @@
       "trip_id": "2291020",
       "direction_id": 0,
       "vehicle_id": "3612",
-      "lat": 42.491844177246094,
-      "lon": -83.29766082763672,
-      "bearing": 137,
-      "speed_mph": 28,
-      "updated_at": "2026-11-16T21:21:16.000Z"
+      "lat": 42.43559646606445,
+      "lon": -83.29728698730469,
+      "bearing": 178,
+      "speed_mph": 38,
+      "updated_at": "2026-11-16T21:37:47.000Z"
     },
     {
       "agency": "smart",
       "route_id": "275",
-      "trip_id": "883020",
-      "direction_id": 1,
+      "trip_id": "1084020",
+      "direction_id": 0,
       "vehicle_id": "3730",
-      "lat": 42.486419677734375,
-      "lon": -83.29077911376953,
-      "bearing": 352,
-      "speed_mph": 18,
-      "updated_at": "2026-11-16T21:21:19.000Z"
+      "lat": 42.5010986328125,
+      "lon": -83.28610229492188,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:34.000Z"
     },
     {
       "agency": "smart",
       "route_id": "730",
-      "trip_id": "3416020",
-      "direction_id": 0,
+      "trip_id": "1258020",
+      "direction_id": 1,
       "vehicle_id": "3731",
-      "lat": 42.47893524169922,
-      "lon": -83.26058197021484,
+      "lat": 42.47255325317383,
+      "lon": -83.28508758544922,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:18.000Z"
+      "updated_at": "2026-11-16T21:37:33.000Z"
     },
     {
       "agency": "smart",
@@ -1856,11 +1856,11 @@
       "trip_id": "3092020",
       "direction_id": 0,
       "vehicle_id": "3619",
-      "lat": 42.537689208984375,
-      "lon": -83.1072998046875,
-      "bearing": 178,
-      "speed_mph": 20,
-      "updated_at": "2026-11-16T21:21:05.000Z"
+      "lat": 42.47754669189453,
+      "lon": -83.104736328125,
+      "bearing": 177,
+      "speed_mph": 22,
+      "updated_at": "2026-11-16T21:37:52.000Z"
     },
     {
       "agency": "smart",
@@ -1868,11 +1868,11 @@
       "trip_id": "1930020",
       "direction_id": 1,
       "vehicle_id": "3733",
-      "lat": 42.463314056396484,
-      "lon": -83.01846313476562,
-      "bearing": 88,
-      "speed_mph": 20,
-      "updated_at": "2026-11-16T21:21:22.000Z"
+      "lat": 42.4658088684082,
+      "lon": -82.91620635986328,
+      "bearing": 87,
+      "speed_mph": 24,
+      "updated_at": "2026-11-16T21:38:01.000Z"
     },
     {
       "agency": "smart",
@@ -1884,7 +1884,7 @@
       "lon": -83.15955352783203,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:47.000Z"
+      "updated_at": "2026-11-16T21:37:21.000Z"
     },
     {
       "agency": "smart",
@@ -1892,11 +1892,11 @@
       "trip_id": "1990020",
       "direction_id": 1,
       "vehicle_id": "3617",
-      "lat": 42.483951568603516,
-      "lon": -83.14647674560547,
-      "bearing": 358,
-      "speed_mph": 22,
-      "updated_at": "2026-11-16T21:20:58.000Z"
+      "lat": 42.477073669433594,
+      "lon": -83.08454895019531,
+      "bearing": 178,
+      "speed_mph": 10,
+      "updated_at": "2026-11-16T21:37:53.000Z"
     },
     {
       "agency": "smart",
@@ -1908,7 +1908,7 @@
       "lon": -83.16010284423828,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:50.000Z"
+      "updated_at": "2026-11-16T21:37:29.000Z"
     },
     {
       "agency": "smart",
@@ -1916,11 +1916,11 @@
       "trip_id": "2859020",
       "direction_id": 0,
       "vehicle_id": "3616",
-      "lat": 42.64387512207031,
-      "lon": -83.19718170166016,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:33.000Z"
+      "lat": 42.64928436279297,
+      "lon": -83.22279357910156,
+      "bearing": 179,
+      "speed_mph": 24,
+      "updated_at": "2026-11-16T21:37:47.000Z"
     },
     {
       "agency": "smart",
@@ -1932,7 +1932,7 @@
       "lon": -83.16064453125,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:34.000Z"
+      "updated_at": "2026-11-16T21:37:07.000Z"
     },
     {
       "agency": "smart",
@@ -1944,7 +1944,7 @@
       "lon": -83.16036224365234,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:52.000Z"
+      "updated_at": "2026-11-16T21:37:31.000Z"
     },
     {
       "agency": "smart",
@@ -1952,11 +1952,11 @@
       "trip_id": "1223020",
       "direction_id": 0,
       "vehicle_id": "3626",
-      "lat": 42.610511779785156,
-      "lon": -83.0316162109375,
-      "bearing": 266,
-      "speed_mph": 18,
-      "updated_at": "2026-11-16T21:21:04.000Z"
+      "lat": 42.53136444091797,
+      "lon": -83.02921295166016,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:51.000Z"
     },
     {
       "agency": "smart",
@@ -1964,11 +1964,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3625",
-      "lat": 42.53963851928711,
-      "lon": -82.90876770019531,
-      "bearing": 24,
-      "speed_mph": 41,
-      "updated_at": "2026-11-16T21:20:44.000Z"
+      "lat": 42.553802490234375,
+      "lon": -82.88504791259766,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-16T21:37:28.000Z"
     },
     {
       "agency": "smart",
@@ -1976,11 +1976,11 @@
       "trip_id": "2516020",
       "direction_id": 1,
       "vehicle_id": "3622",
-      "lat": 42.48804473876953,
-      "lon": -83.14659118652344,
-      "bearing": 358,
-      "speed_mph": 15,
-      "updated_at": "2026-11-16T21:21:07.000Z"
+      "lat": 42.53666305541992,
+      "lon": -83.146484375,
+      "bearing": 357,
+      "speed_mph": 30,
+      "updated_at": "2026-11-16T21:37:46.000Z"
     },
     {
       "agency": "smart",
@@ -1988,11 +1988,11 @@
       "trip_id": "2634020",
       "direction_id": 1,
       "vehicle_id": "3740",
-      "lat": 42.48923873901367,
-      "lon": -82.8976821899414,
-      "bearing": 17,
-      "speed_mph": 33,
-      "updated_at": "2026-11-16T21:21:16.000Z"
+      "lat": 42.55474090576172,
+      "lon": -82.85372161865234,
+      "bearing": 125,
+      "speed_mph": 26,
+      "updated_at": "2026-11-16T21:37:19.000Z"
     },
     {
       "agency": "smart",
@@ -2000,11 +2000,11 @@
       "trip_id": "2776020",
       "direction_id": 0,
       "vehicle_id": "3741",
-      "lat": 42.26520538330078,
-      "lon": -83.20096588134766,
-      "bearing": 211,
-      "speed_mph": 20,
-      "updated_at": "2026-11-16T21:21:21.000Z"
+      "lat": 42.2303581237793,
+      "lon": -83.14936065673828,
+      "bearing": 279,
+      "speed_mph": 32,
+      "updated_at": "2026-11-16T21:37:53.000Z"
     },
     {
       "agency": "smart",
@@ -2016,7 +2016,7 @@
       "lon": -83.40808868408203,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:21:01.000Z"
+      "updated_at": "2026-11-16T21:37:36.000Z"
     },
     {
       "agency": "smart",
@@ -2024,11 +2024,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3629",
-      "lat": 42.55378723144531,
-      "lon": -82.884521484375,
+      "lat": 42.554508209228516,
+      "lon": -82.88385009765625,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-16T21:20:54.000Z"
+      "updated_at": "2026-11-16T21:37:04.000Z"
     },
     {
       "agency": "smart",
@@ -2036,11 +2036,23 @@
       "trip_id": "1796020",
       "direction_id": 0,
       "vehicle_id": "3746",
-      "lat": 42.63720703125,
-      "lon": -83.10054779052734,
-      "bearing": 76,
-      "speed_mph": 20,
-      "updated_at": "2026-11-16T21:21:07.000Z"
+      "lat": 42.554443359375,
+      "lon": -83.08834838867188,
+      "bearing": 178,
+      "speed_mph": 18,
+      "updated_at": "2026-11-16T21:37:59.000Z"
+    },
+    {
+      "agency": "smart",
+      "route_id": "",
+      "trip_id": "",
+      "direction_id": null,
+      "vehicle_id": "3627",
+      "lat": 42.5825080871582,
+      "lon": -82.81478881835938,
+      "bearing": 93,
+      "speed_mph": 34,
+      "updated_at": "2026-11-16T21:37:29.000Z"
     },
     {
       "agency": "smart",
@@ -2048,16 +2060,16 @@
       "trip_id": "1033020",
       "direction_id": 0,
       "vehicle_id": "3747",
-      "lat": 42.64301681518555,
-      "lon": -83.32613372802734,
-      "bearing": 177,
-      "speed_mph": 24,
-      "updated_at": "2026-11-16T21:21:17.000Z"
+      "lat": 42.66864013671875,
+      "lon": -83.31719207763672,
+      "bearing": 81,
+      "speed_mph": 15,
+      "updated_at": "2026-11-16T21:37:39.000Z"
     }
   ],
   "source": {
     "ok": true,
-    "at": "2026-11-16T21:21:26.075Z",
-    "vehicles": 171
+    "at": "2026-11-16T21:38:07.716Z",
+    "vehicles": 172
   }
 }
