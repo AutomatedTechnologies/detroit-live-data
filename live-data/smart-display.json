@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T14:18:27.975Z",
+  "generated_at": "2026-11-28T14:21:06.770Z",
   "count": 108,
   "vehicles": [
     {
@@ -8,11 +8,11 @@
       "trip_id": "592070",
       "direction_id": 0,
       "vehicle_id": "3761",
-      "lat": 42.54148864746094,
-      "lon": -83.45103454589844,
-      "bearing": 270,
-      "speed_mph": 33,
-      "updated_at": "2026-11-28T14:18:03.000Z",
+      "lat": 42.53812789916992,
+      "lon": -83.47822570800781,
+      "bearing": 259,
+      "speed_mph": 16,
+      "updated_at": "2026-11-28T14:20:37.000Z",
       "service_status": "in_service"
     },
     {
@@ -21,11 +21,11 @@
       "trip_id": "3110070",
       "direction_id": 1,
       "vehicle_id": "3638",
-      "lat": 42.60154724121094,
-      "lon": -82.87551879882812,
+      "lat": 42.62139129638672,
+      "lon": -82.86526489257812,
       "bearing": 20,
-      "speed_mph": 23,
-      "updated_at": "2026-11-28T14:18:20.000Z",
+      "speed_mph": 50,
+      "updated_at": "2026-11-28T14:20:54.000Z",
       "service_status": "in_service"
     },
     {
@@ -34,11 +34,11 @@
       "trip_id": "1116070",
       "direction_id": 1,
       "vehicle_id": "3630",
-      "lat": 42.543697357177734,
-      "lon": -83.3311767578125,
-      "bearing": 89,
-      "speed_mph": 47,
-      "updated_at": "2026-11-28T14:18:15.000Z",
+      "lat": 42.544647216796875,
+      "lon": -83.29216003417969,
+      "bearing": 88,
+      "speed_mph": 40,
+      "updated_at": "2026-11-28T14:20:55.000Z",
       "service_status": "in_service"
     },
     {
@@ -47,11 +47,11 @@
       "trip_id": "1788070",
       "direction_id": 0,
       "vehicle_id": "3631",
-      "lat": 42.65252685546875,
-      "lon": -83.28155517578125,
-      "bearing": 222,
-      "speed_mph": 39,
-      "updated_at": "2026-11-28T14:17:50.000Z",
+      "lat": 42.64250183105469,
+      "lon": -83.29158782958984,
+      "bearing": 200,
+      "speed_mph": 18,
+      "updated_at": "2026-11-28T14:20:51.000Z",
       "service_status": "in_service"
     },
     {
@@ -64,7 +64,7 @@
       "lon": -82.75471496582031,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:13.000Z",
+      "updated_at": "2026-11-28T14:20:39.000Z",
       "service_status": "in_service"
     },
     {
@@ -73,11 +73,11 @@
       "trip_id": "3553070",
       "direction_id": 1,
       "vehicle_id": "3632",
-      "lat": 42.52495193481445,
-      "lon": -83.5173110961914,
+      "lat": 42.525596618652344,
+      "lon": -83.49417114257812,
       "bearing": 87,
-      "speed_mph": 30,
-      "updated_at": "2026-11-28T14:18:16.000Z",
+      "speed_mph": 10,
+      "updated_at": "2026-11-28T14:20:50.000Z",
       "service_status": "in_service"
     },
     {
@@ -90,7 +90,7 @@
       "lon": -82.91068267822266,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:09.000Z",
+      "updated_at": "2026-11-28T14:20:39.000Z",
       "service_status": "in_service"
     },
     {
@@ -99,11 +99,11 @@
       "trip_id": "3573070",
       "direction_id": 0,
       "vehicle_id": "3755",
-      "lat": 42.544921875,
-      "lon": -83.212646484375,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:09.000Z",
+      "lat": 42.53425216674805,
+      "lon": -83.20219421386719,
+      "bearing": 144,
+      "speed_mph": 10,
+      "updated_at": "2026-11-28T14:20:43.000Z",
       "service_status": "in_service"
     },
     {
@@ -112,11 +112,11 @@
       "trip_id": "3534070",
       "direction_id": 1,
       "vehicle_id": "3634",
-      "lat": 42.4859619140625,
-      "lon": -83.2217788696289,
-      "bearing": 357,
-      "speed_mph": 15,
-      "updated_at": "2026-11-28T14:18:11.000Z",
+      "lat": 42.50415802001953,
+      "lon": -83.22259521484375,
+      "bearing": 350,
+      "speed_mph": 46,
+      "updated_at": "2026-11-28T14:21:03.000Z",
       "service_status": "in_service"
     },
     {
@@ -125,11 +125,11 @@
       "trip_id": "1109070",
       "direction_id": 0,
       "vehicle_id": "3756",
-      "lat": 42.544830322265625,
-      "lon": -83.2845230102539,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:18.000Z",
+      "lat": 42.54410171508789,
+      "lon": -83.31415557861328,
+      "bearing": 267,
+      "speed_mph": 41,
+      "updated_at": "2026-11-28T14:20:57.000Z",
       "service_status": "in_service"
     },
     {
@@ -142,7 +142,7 @@
       "lon": -83.33476257324219,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:30.000Z",
+      "updated_at": "2026-11-28T14:20:00.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -152,11 +152,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3637",
-      "lat": 42.167999267578125,
-      "lon": -83.2594985961914,
-      "bearing": 82,
-      "speed_mph": 45,
-      "updated_at": "2026-11-28T14:17:43.000Z",
+      "lat": 42.16929244995117,
+      "lon": -83.23703002929688,
+      "bearing": 89,
+      "speed_mph": 33,
+      "updated_at": "2026-11-28T14:20:17.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -170,7 +170,7 @@
       "lon": -83.15980529785156,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:26.000Z",
+      "updated_at": "2026-11-28T14:20:27.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -184,7 +184,7 @@
       "lon": -82.83460235595703,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:07.000Z",
+      "updated_at": "2026-11-28T14:21:03.000Z",
       "service_status": "in_service"
     },
     {
@@ -193,11 +193,11 @@
       "trip_id": "596070",
       "direction_id": 1,
       "vehicle_id": "3772",
-      "lat": 42.496986389160156,
-      "lon": -83.43293762207031,
+      "lat": 42.49802017211914,
+      "lon": -83.39469146728516,
       "bearing": 87,
-      "speed_mph": 35,
-      "updated_at": "2026-11-28T14:18:01.000Z",
+      "speed_mph": 32,
+      "updated_at": "2026-11-28T14:21:01.000Z",
       "service_status": "in_service"
     },
     {
@@ -206,11 +206,11 @@
       "trip_id": "2240070",
       "direction_id": 1,
       "vehicle_id": "3649",
-      "lat": 42.450191497802734,
-      "lon": -82.9675064086914,
-      "bearing": 38,
-      "speed_mph": 22,
-      "updated_at": "2026-11-28T14:18:11.000Z",
+      "lat": 42.46140670776367,
+      "lon": -82.95989990234375,
+      "bearing": 25,
+      "speed_mph": 41,
+      "updated_at": "2026-11-28T14:20:43.000Z",
       "service_status": "in_service"
     },
     {
@@ -219,11 +219,11 @@
       "trip_id": "314070",
       "direction_id": 1,
       "vehicle_id": "3641",
-      "lat": 42.47040557861328,
-      "lon": -83.14110565185547,
-      "bearing": 332,
-      "speed_mph": 37,
-      "updated_at": "2026-11-28T14:18:07.000Z",
+      "lat": 42.488040924072266,
+      "lon": -83.15727233886719,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:20:58.000Z",
       "service_status": "in_service"
     },
     {
@@ -232,24 +232,24 @@
       "trip_id": "1875070",
       "direction_id": 0,
       "vehicle_id": "3763",
-      "lat": 42.196075439453125,
-      "lon": -83.30535125732422,
-      "bearing": 263,
-      "speed_mph": 36,
-      "updated_at": "2026-11-28T14:18:19.000Z",
+      "lat": 42.201744079589844,
+      "lon": -83.3261947631836,
+      "bearing": 357,
+      "speed_mph": 46,
+      "updated_at": "2026-11-28T14:20:52.000Z",
       "service_status": "in_service"
     },
     {
       "agency": "smart",
       "route_id": "790",
-      "trip_id": "794070",
-      "direction_id": 0,
+      "trip_id": "2688070",
+      "direction_id": 1,
       "vehicle_id": "3645",
-      "lat": 42.66987991333008,
-      "lon": -83.31523895263672,
-      "bearing": 180,
-      "speed_mph": 30,
-      "updated_at": "2026-11-28T14:18:18.000Z",
+      "lat": 42.67182922363281,
+      "lon": -83.3014907836914,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:20:58.000Z",
       "service_status": "in_service"
     },
     {
@@ -258,11 +258,11 @@
       "trip_id": "252070",
       "direction_id": 1,
       "vehicle_id": "3646",
-      "lat": 42.56719207763672,
-      "lon": -83.2294921875,
+      "lat": 42.595428466796875,
+      "lon": -83.25633239746094,
       "bearing": 325,
-      "speed_mph": 50,
-      "updated_at": "2026-11-28T14:17:59.000Z",
+      "speed_mph": 36,
+      "updated_at": "2026-11-28T14:21:01.000Z",
       "service_status": "in_service"
     },
     {
@@ -271,11 +271,11 @@
       "trip_id": "3285070",
       "direction_id": 1,
       "vehicle_id": "3647",
-      "lat": 42.48725128173828,
-      "lon": -83.14781951904297,
-      "bearing": 357,
-      "speed_mph": 25,
-      "updated_at": "2026-11-28T14:18:21.000Z",
+      "lat": 42.48982620239258,
+      "lon": -83.14409637451172,
+      "bearing": 87,
+      "speed_mph": 16,
+      "updated_at": "2026-11-28T14:20:52.000Z",
       "service_status": "in_service"
     },
     {
@@ -284,11 +284,11 @@
       "trip_id": "1321070",
       "direction_id": 1,
       "vehicle_id": "3768",
-      "lat": 42.51028823852539,
-      "lon": -83.1786880493164,
-      "bearing": 324,
-      "speed_mph": 39,
-      "updated_at": "2026-11-28T14:18:19.000Z",
+      "lat": 42.517086029052734,
+      "lon": -83.18526458740234,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:20:52.000Z",
       "service_status": "in_service"
     },
     {
@@ -301,7 +301,7 @@
       "lon": -83.11022186279297,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:15.000Z",
+      "updated_at": "2026-11-28T14:20:50.000Z",
       "service_status": "in_service"
     },
     {
@@ -310,11 +310,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3780",
-      "lat": 42.541961669921875,
-      "lon": -83.3941879272461,
-      "bearing": 88,
-      "speed_mph": 28,
-      "updated_at": "2026-11-28T14:17:34.000Z",
+      "lat": 42.54281234741211,
+      "lon": -83.36396789550781,
+      "bearing": 87,
+      "speed_mph": 27,
+      "updated_at": "2026-11-28T14:20:05.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -324,11 +324,11 @@
       "trip_id": "2779070",
       "direction_id": 0,
       "vehicle_id": "3653",
-      "lat": 42.529170989990234,
-      "lon": -82.91607666015625,
-      "bearing": 205,
-      "speed_mph": 39,
-      "updated_at": "2026-11-28T14:18:14.000Z",
+      "lat": 42.50899124145508,
+      "lon": -82.92919158935547,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:20:56.000Z",
       "service_status": "in_service"
     },
     {
@@ -337,11 +337,11 @@
       "trip_id": "1378070",
       "direction_id": 0,
       "vehicle_id": "3774",
-      "lat": 42.476043701171875,
-      "lon": -83.02716827392578,
+      "lat": 42.4619255065918,
+      "lon": -83.0266342163086,
       "bearing": 178,
-      "speed_mph": 39,
-      "updated_at": "2026-11-28T14:18:00.000Z",
+      "speed_mph": 35,
+      "updated_at": "2026-11-28T14:20:55.000Z",
       "service_status": "in_service"
     },
     {
@@ -350,11 +350,11 @@
       "trip_id": "996070",
       "direction_id": 1,
       "vehicle_id": "3775",
-      "lat": 42.50362777709961,
-      "lon": -83.12498474121094,
-      "bearing": 358,
-      "speed_mph": 24,
-      "updated_at": "2026-11-28T14:18:02.000Z",
+      "lat": 42.50439453125,
+      "lon": -83.11894226074219,
+      "bearing": 1,
+      "speed_mph": 10,
+      "updated_at": "2026-11-28T14:20:35.000Z",
       "service_status": "in_service"
     },
     {
@@ -367,7 +367,7 @@
       "lon": -83.28397369384766,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:01.000Z",
+      "updated_at": "2026-11-28T14:21:02.000Z",
       "service_status": "in_service"
     },
     {
@@ -380,7 +380,7 @@
       "lon": -83.15567779541016,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:12.000Z",
+      "updated_at": "2026-11-28T14:20:52.000Z",
       "service_status": "in_service"
     },
     {
@@ -393,7 +393,7 @@
       "lon": -82.86756896972656,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:11.000Z",
+      "updated_at": "2026-11-28T14:20:41.000Z",
       "service_status": "in_service"
     },
     {
@@ -402,11 +402,11 @@
       "trip_id": "141070",
       "direction_id": 0,
       "vehicle_id": "3779",
-      "lat": 42.553340911865234,
-      "lon": -82.96077728271484,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:21.000Z",
+      "lat": 42.552650451660156,
+      "lon": -82.98001861572266,
+      "bearing": 357,
+      "speed_mph": 37,
+      "updated_at": "2026-11-28T14:20:56.000Z",
       "service_status": "in_service"
     },
     {
@@ -415,11 +415,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3905",
-      "lat": 42.285526275634766,
-      "lon": -83.33462524414062,
-      "bearing": 357,
-      "speed_mph": 5,
-      "updated_at": "2026-11-28T14:17:30.000Z",
+      "lat": 42.2861328125,
+      "lon": -83.3349838256836,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:20:01.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -429,26 +429,25 @@
       "trip_id": "3260070",
       "direction_id": 0,
       "vehicle_id": "3906",
-      "lat": 42.67344284057617,
-      "lon": -83.13341522216797,
-      "bearing": 179,
-      "speed_mph": 37,
-      "updated_at": "2026-11-28T14:18:13.000Z",
+      "lat": 42.65326690673828,
+      "lon": -83.13262176513672,
+      "bearing": 177,
+      "speed_mph": 10,
+      "updated_at": "2026-11-28T14:20:37.000Z",
       "service_status": "in_service"
     },
     {
       "agency": "smart",
-      "route_id": "",
-      "trip_id": "",
-      "direction_id": null,
+      "route_id": "759",
+      "trip_id": "3212070",
+      "direction_id": 1,
       "vehicle_id": "3909",
-      "lat": 42.65877151489258,
-      "lon": -83.45307159423828,
-      "bearing": 250,
-      "speed_mph": 48,
-      "updated_at": "2026-11-28T14:17:45.000Z",
-      "service_status": "not_in_service",
-      "service_label": "Not in service"
+      "lat": 42.649574279785156,
+      "lon": -83.50164031982422,
+      "bearing": 267,
+      "speed_mph": 49,
+      "updated_at": "2026-11-28T14:20:45.000Z",
+      "service_status": "in_service"
     },
     {
       "agency": "smart",
@@ -456,11 +455,11 @@
       "trip_id": "150070",
       "direction_id": 0,
       "vehicle_id": "3901",
-      "lat": 42.33095169067383,
-      "lon": -83.05072784423828,
-      "bearing": 73,
-      "speed_mph": 15,
-      "updated_at": "2026-11-28T14:17:57.000Z",
+      "lat": 42.334659576416016,
+      "lon": -83.05008697509766,
+      "bearing": 239,
+      "speed_mph": 10,
+      "updated_at": "2026-11-28T14:20:59.000Z",
       "service_status": "in_service"
     },
     {
@@ -473,7 +472,7 @@
       "lon": -83.12638092041016,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:00.000Z",
+      "updated_at": "2026-11-28T14:21:02.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -483,11 +482,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3925",
-      "lat": 42.308773040771484,
-      "lon": -83.23270416259766,
-      "bearing": 265,
-      "speed_mph": 33,
-      "updated_at": "2026-11-28T14:17:39.000Z",
+      "lat": 42.30441665649414,
+      "lon": -83.25234985351562,
+      "bearing": 253,
+      "speed_mph": 24,
+      "updated_at": "2026-11-28T14:20:10.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -501,7 +500,7 @@
       "lon": -83.04631042480469,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:59.000Z",
+      "updated_at": "2026-11-28T14:21:00.000Z",
       "service_status": "in_service"
     },
     {
@@ -510,11 +509,11 @@
       "trip_id": "527070",
       "direction_id": 1,
       "vehicle_id": "3806",
-      "lat": 42.23155975341797,
-      "lon": -83.19426727294922,
-      "bearing": 0,
-      "speed_mph": 23,
-      "updated_at": "2026-11-28T14:18:20.000Z",
+      "lat": 42.2467155456543,
+      "lon": -83.19522094726562,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:20:52.000Z",
       "service_status": "in_service"
     },
     {
@@ -524,10 +523,10 @@
       "direction_id": 0,
       "vehicle_id": "3807",
       "lat": 42.648067474365234,
-      "lon": -83.25431060791016,
+      "lon": -83.25430297851562,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:55.000Z",
+      "updated_at": "2026-11-28T14:21:01.000Z",
       "service_status": "in_service"
     },
     {
@@ -540,7 +539,7 @@
       "lon": -83.1998519897461,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:20.000Z",
+      "updated_at": "2026-11-28T14:20:51.000Z",
       "service_status": "in_service"
     },
     {
@@ -549,11 +548,11 @@
       "trip_id": "2308070",
       "direction_id": 1,
       "vehicle_id": "3921",
-      "lat": 42.32194137573242,
-      "lon": -83.17675018310547,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:13.000Z",
+      "lat": 42.32740020751953,
+      "lon": -83.15796661376953,
+      "bearing": 68,
+      "speed_mph": 30,
+      "updated_at": "2026-11-28T14:20:45.000Z",
       "service_status": "in_service"
     },
     {
@@ -562,11 +561,11 @@
       "trip_id": "480070",
       "direction_id": 1,
       "vehicle_id": "3801",
-      "lat": 42.33335494995117,
-      "lon": -83.40805053710938,
+      "lat": 42.3331413269043,
+      "lon": -83.40843963623047,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:20.000Z",
+      "updated_at": "2026-11-28T14:20:53.000Z",
       "service_status": "in_service"
     },
     {
@@ -579,7 +578,7 @@
       "lon": -83.28419494628906,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:22.000Z",
+      "updated_at": "2026-11-28T14:20:53.000Z",
       "service_status": "in_service"
     },
     {
@@ -592,7 +591,7 @@
       "lon": -83.23468017578125,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:09.000Z",
+      "updated_at": "2026-11-28T14:20:40.000Z",
       "service_status": "in_service"
     },
     {
@@ -601,11 +600,11 @@
       "trip_id": "2695070",
       "direction_id": 1,
       "vehicle_id": "3935",
-      "lat": 42.556644439697266,
-      "lon": -82.8983383178711,
-      "bearing": 21,
-      "speed_mph": 22,
-      "updated_at": "2026-11-28T14:18:22.000Z",
+      "lat": 42.57765579223633,
+      "lon": -82.88516235351562,
+      "bearing": 59,
+      "speed_mph": 33,
+      "updated_at": "2026-11-28T14:20:57.000Z",
       "service_status": "in_service"
     },
     {
@@ -614,11 +613,11 @@
       "trip_id": "2996070",
       "direction_id": 1,
       "vehicle_id": "3019",
-      "lat": 42.681880950927734,
-      "lon": -83.14421081542969,
+      "lat": 42.6815185546875,
+      "lon": -83.15829467773438,
       "bearing": 268,
-      "speed_mph": 26,
-      "updated_at": "2026-11-28T14:18:08.000Z",
+      "speed_mph": 36,
+      "updated_at": "2026-11-28T14:21:02.000Z",
       "service_status": "in_service"
     },
     {
@@ -627,11 +626,11 @@
       "trip_id": "5070",
       "direction_id": 1,
       "vehicle_id": "3938",
-      "lat": 42.522891998291016,
-      "lon": -83.02888488769531,
-      "bearing": 357,
-      "speed_mph": 36,
-      "updated_at": "2026-11-28T14:18:22.000Z",
+      "lat": 42.53142547607422,
+      "lon": -83.02891540527344,
+      "bearing": 64,
+      "speed_mph": 43,
+      "updated_at": "2026-11-28T14:20:51.000Z",
       "service_status": "in_service"
     },
     {
@@ -640,11 +639,11 @@
       "trip_id": "177070",
       "direction_id": 1,
       "vehicle_id": "3818",
-      "lat": 42.50078582763672,
-      "lon": -83.29949188232422,
+      "lat": 42.50109100341797,
+      "lon": -83.28578186035156,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:19.000Z",
+      "updated_at": "2026-11-28T14:20:59.000Z",
       "service_status": "in_service"
     },
     {
@@ -653,11 +652,11 @@
       "trip_id": "1052070",
       "direction_id": 1,
       "vehicle_id": "3819",
-      "lat": 42.49037551879883,
-      "lon": -83.12535095214844,
-      "bearing": 182,
-      "speed_mph": 30,
-      "updated_at": "2026-11-28T14:18:21.000Z",
+      "lat": 42.48984909057617,
+      "lon": -83.1432113647461,
+      "bearing": 270,
+      "speed_mph": 22,
+      "updated_at": "2026-11-28T14:21:02.000Z",
       "service_status": "in_service"
     },
     {
@@ -666,11 +665,11 @@
       "trip_id": "2653070",
       "direction_id": 1,
       "vehicle_id": "3931",
-      "lat": 42.64894485473633,
-      "lon": -83.25314331054688,
-      "bearing": null,
-      "speed_mph": 3,
-      "updated_at": "2026-11-28T14:17:58.000Z",
+      "lat": 42.661224365234375,
+      "lon": -83.24707794189453,
+      "bearing": 237,
+      "speed_mph": 13,
+      "updated_at": "2026-11-28T14:21:03.000Z",
       "service_status": "in_service"
     },
     {
@@ -683,7 +682,7 @@
       "lon": -83.1602554321289,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:52.000Z",
+      "updated_at": "2026-11-28T14:20:23.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -693,11 +692,11 @@
       "trip_id": "1759070",
       "direction_id": 0,
       "vehicle_id": "3811",
-      "lat": 42.29011917114258,
-      "lon": -83.3294677734375,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:11.000Z",
+      "lat": 42.27333068847656,
+      "lon": -83.32866668701172,
+      "bearing": 178,
+      "speed_mph": 38,
+      "updated_at": "2026-11-28T14:20:57.000Z",
       "service_status": "in_service"
     },
     {
@@ -706,11 +705,11 @@
       "trip_id": "1379070",
       "direction_id": 0,
       "vehicle_id": "3934",
-      "lat": 42.333282470703125,
-      "lon": -83.05118560791016,
-      "bearing": 179,
-      "speed_mph": 15,
-      "updated_at": "2026-11-28T14:17:58.000Z",
+      "lat": 42.328330993652344,
+      "lon": -83.04769897460938,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:21:03.000Z",
       "service_status": "in_service"
     },
     {
@@ -723,7 +722,7 @@
       "lon": -83.11739349365234,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:11.000Z",
+      "updated_at": "2026-11-28T14:20:42.000Z",
       "service_status": "in_service"
     },
     {
@@ -732,11 +731,11 @@
       "trip_id": "201070",
       "direction_id": 0,
       "vehicle_id": "3705",
-      "lat": 42.487762451171875,
-      "lon": -83.28472900390625,
-      "bearing": 180,
-      "speed_mph": 42,
-      "updated_at": "2026-11-28T14:18:06.000Z",
+      "lat": 42.47085952758789,
+      "lon": -83.28130340576172,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:20:40.000Z",
       "service_status": "in_service"
     },
     {
@@ -749,7 +748,7 @@
       "lon": -82.90494537353516,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:36.000Z",
+      "updated_at": "2026-11-28T14:20:06.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -759,11 +758,11 @@
       "trip_id": "2756070",
       "direction_id": 1,
       "vehicle_id": "3827",
-      "lat": 42.22417449951172,
-      "lon": -83.26888275146484,
-      "bearing": 359,
-      "speed_mph": 31,
-      "updated_at": "2026-11-28T14:18:21.000Z",
+      "lat": 42.24467086791992,
+      "lon": -83.2696304321289,
+      "bearing": 358,
+      "speed_mph": 15,
+      "updated_at": "2026-11-28T14:21:00.000Z",
       "service_status": "in_service"
     },
     {
@@ -772,11 +771,11 @@
       "trip_id": "151070",
       "direction_id": 0,
       "vehicle_id": "3706",
-      "lat": 42.47827911376953,
-      "lon": -82.98709869384766,
-      "bearing": 265,
-      "speed_mph": 22,
-      "updated_at": "2026-11-28T14:18:21.000Z",
+      "lat": 42.477909088134766,
+      "lon": -83.00584411621094,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:21:01.000Z",
       "service_status": "in_service"
     },
     {
@@ -785,11 +784,11 @@
       "trip_id": "3377070",
       "direction_id": 1,
       "vehicle_id": "3828",
-      "lat": 42.19822692871094,
-      "lon": -83.23590087890625,
-      "bearing": 87,
-      "speed_mph": 17,
-      "updated_at": "2026-11-28T14:18:13.000Z",
+      "lat": 42.19888687133789,
+      "lon": -83.21479797363281,
+      "bearing": 1,
+      "speed_mph": 26,
+      "updated_at": "2026-11-28T14:20:52.000Z",
       "service_status": "in_service"
     },
     {
@@ -798,11 +797,11 @@
       "trip_id": "938070",
       "direction_id": 1,
       "vehicle_id": "3708",
-      "lat": 42.34819030761719,
-      "lon": -83.05603790283203,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:56.000Z",
+      "lat": 42.35865020751953,
+      "lon": -83.05984497070312,
+      "bearing": 57,
+      "speed_mph": 8,
+      "updated_at": "2026-11-28T14:21:00.000Z",
       "service_status": "in_service"
     },
     {
@@ -811,11 +810,11 @@
       "trip_id": "424070",
       "direction_id": 0,
       "vehicle_id": "3701",
-      "lat": 42.49586486816406,
-      "lon": -83.47006225585938,
-      "bearing": 267,
-      "speed_mph": 16,
-      "updated_at": "2026-11-28T14:18:17.000Z",
+      "lat": 42.496009826660156,
+      "lon": -83.4638442993164,
+      "bearing": 6,
+      "speed_mph": 7,
+      "updated_at": "2026-11-28T14:20:50.000Z",
       "service_status": "in_service"
     },
     {
@@ -824,11 +823,11 @@
       "trip_id": "2736070",
       "direction_id": 0,
       "vehicle_id": "3822",
-      "lat": 42.46936798095703,
-      "lon": -83.0843734741211,
+      "lat": 42.46142578125,
+      "lon": -83.083984375,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:21.000Z",
+      "updated_at": "2026-11-28T14:20:56.000Z",
       "service_status": "in_service"
     },
     {
@@ -841,7 +840,7 @@
       "lon": -83.16047668457031,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:49.000Z",
+      "updated_at": "2026-11-28T14:20:21.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -855,7 +854,7 @@
       "lon": -83.28736114501953,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:03.000Z",
+      "updated_at": "2026-11-28T14:21:03.000Z",
       "service_status": "in_service"
     },
     {
@@ -868,7 +867,7 @@
       "lon": -83.16090393066406,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:25.000Z",
+      "updated_at": "2026-11-28T14:20:26.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -882,7 +881,7 @@
       "lon": -83.40791320800781,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:21.000Z",
+      "updated_at": "2026-11-28T14:20:52.000Z",
       "service_status": "in_service"
     },
     {
@@ -895,7 +894,7 @@
       "lon": -83.16024780273438,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:32.000Z",
+      "updated_at": "2026-11-28T14:20:07.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -909,7 +908,7 @@
       "lon": -83.04452514648438,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:02.000Z",
+      "updated_at": "2026-11-28T14:21:02.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -919,11 +918,11 @@
       "trip_id": "2725070",
       "direction_id": 0,
       "vehicle_id": "3718",
-      "lat": 42.476627349853516,
-      "lon": -83.123779296875,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:19.000Z",
+      "lat": 42.46435546875,
+      "lon": -83.1231918334961,
+      "bearing": 177,
+      "speed_mph": 20,
+      "updated_at": "2026-11-28T14:20:43.000Z",
       "service_status": "in_service"
     },
     {
@@ -932,11 +931,11 @@
       "trip_id": "843070",
       "direction_id": 0,
       "vehicle_id": "3719",
-      "lat": 42.54216003417969,
-      "lon": -83.38875579833984,
-      "bearing": 270,
-      "speed_mph": 38,
-      "updated_at": "2026-11-28T14:18:11.000Z",
+      "lat": 42.53926086425781,
+      "lon": -83.40837860107422,
+      "bearing": 42,
+      "speed_mph": 17,
+      "updated_at": "2026-11-28T14:20:59.000Z",
       "service_status": "in_service"
     },
     {
@@ -945,11 +944,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3710",
-      "lat": 42.360782623291016,
-      "lon": -82.98222351074219,
-      "bearing": 223,
+      "lat": 42.353267669677734,
+      "lon": -82.9921875,
+      "bearing": 229,
       "speed_mph": 20,
-      "updated_at": "2026-11-28T14:17:36.000Z",
+      "updated_at": "2026-11-28T14:20:06.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -963,7 +962,7 @@
       "lon": -83.25162506103516,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:04.000Z",
+      "updated_at": "2026-11-28T14:20:35.000Z",
       "service_status": "in_service"
     },
     {
@@ -976,7 +975,7 @@
       "lon": -83.11674499511719,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:54.000Z",
+      "updated_at": "2026-11-28T14:20:55.000Z",
       "service_status": "in_service"
     },
     {
@@ -985,11 +984,11 @@
       "trip_id": "192070",
       "direction_id": 0,
       "vehicle_id": "3834",
-      "lat": 42.633811950683594,
-      "lon": -83.29255676269531,
-      "bearing": 149,
-      "speed_mph": 26,
-      "updated_at": "2026-11-28T14:18:10.000Z",
+      "lat": 42.615657806396484,
+      "lon": -83.27578735351562,
+      "bearing": 145,
+      "speed_mph": 18,
+      "updated_at": "2026-11-28T14:20:55.000Z",
       "service_status": "in_service"
     },
     {
@@ -998,24 +997,24 @@
       "trip_id": "3426070",
       "direction_id": 1,
       "vehicle_id": "3713",
-      "lat": 42.428558349609375,
-      "lon": -83.28844451904297,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:21.000Z",
+      "lat": 42.428157806396484,
+      "lon": -83.27803039550781,
+      "bearing": 200,
+      "speed_mph": 26,
+      "updated_at": "2026-11-28T14:20:54.000Z",
       "service_status": "in_service"
     },
     {
       "agency": "smart",
       "route_id": "560",
-      "trip_id": "458070",
-      "direction_id": 0,
+      "trip_id": "529070",
+      "direction_id": 1,
       "vehicle_id": "4022",
-      "lat": 42.464271545410156,
-      "lon": -82.95844268798828,
+      "lat": 42.45095443725586,
+      "lon": -82.9673843383789,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:03.000Z",
+      "updated_at": "2026-11-28T14:20:38.000Z",
       "service_status": "in_service"
     },
     {
@@ -1024,11 +1023,11 @@
       "trip_id": "2365070",
       "direction_id": 0,
       "vehicle_id": "3604",
-      "lat": 42.221771240234375,
-      "lon": -83.34391021728516,
-      "bearing": 208,
-      "speed_mph": 31,
-      "updated_at": "2026-11-28T14:18:16.000Z",
+      "lat": 42.20872497558594,
+      "lon": -83.35529327392578,
+      "bearing": null,
+      "speed_mph": 0,
+      "updated_at": "2026-11-28T14:20:47.000Z",
       "service_status": "in_service"
     },
     {
@@ -1041,7 +1040,7 @@
       "lon": -83.33477783203125,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:39.000Z",
+      "updated_at": "2026-11-28T14:20:15.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -1055,7 +1054,7 @@
       "lon": -83.13321685791016,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:01.000Z",
+      "updated_at": "2026-11-28T14:21:03.000Z",
       "service_status": "in_service"
     },
     {
@@ -1068,7 +1067,7 @@
       "lon": -82.82984924316406,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:10.000Z",
+      "updated_at": "2026-11-28T14:20:41.000Z",
       "service_status": "in_service"
     },
     {
@@ -1077,11 +1076,11 @@
       "trip_id": "3263070",
       "direction_id": 1,
       "vehicle_id": "3722",
-      "lat": 42.55195999145508,
-      "lon": -82.99917602539062,
-      "bearing": 87,
-      "speed_mph": 39,
-      "updated_at": "2026-11-28T14:18:20.000Z",
+      "lat": 42.5529670715332,
+      "lon": -82.97264099121094,
+      "bearing": 86,
+      "speed_mph": 45,
+      "updated_at": "2026-11-28T14:21:00.000Z",
       "service_status": "in_service"
     },
     {
@@ -1094,7 +1093,7 @@
       "lon": -82.83000946044922,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:21.000Z",
+      "updated_at": "2026-11-28T14:20:51.000Z",
       "service_status": "in_service"
     },
     {
@@ -1103,11 +1102,11 @@
       "trip_id": "1622070",
       "direction_id": 0,
       "vehicle_id": "3607",
-      "lat": 42.37275314331055,
-      "lon": -83.01871490478516,
-      "bearing": 206,
-      "speed_mph": 13,
-      "updated_at": "2026-11-28T14:18:20.000Z",
+      "lat": 42.35789108276367,
+      "lon": -83.02849578857422,
+      "bearing": 205,
+      "speed_mph": 35,
+      "updated_at": "2026-11-28T14:20:40.000Z",
       "service_status": "in_service"
     },
     {
@@ -1120,7 +1119,7 @@
       "lon": -83.15957641601562,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:38.000Z",
+      "updated_at": "2026-11-28T14:20:14.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -1130,11 +1129,11 @@
       "trip_id": "1440070",
       "direction_id": 0,
       "vehicle_id": "3605",
-      "lat": 42.46830749511719,
-      "lon": -83.14006042480469,
+      "lat": 42.46016311645508,
+      "lon": -83.13452911376953,
       "bearing": 153,
-      "speed_mph": 38,
-      "updated_at": "2026-11-28T14:18:12.000Z",
+      "speed_mph": 27,
+      "updated_at": "2026-11-28T14:20:44.000Z",
       "service_status": "in_service"
     },
     {
@@ -1143,11 +1142,11 @@
       "trip_id": "499070",
       "direction_id": 0,
       "vehicle_id": "3725",
-      "lat": 42.63541030883789,
-      "lon": -83.0328369140625,
-      "bearing": 178,
+      "lat": 42.6170539855957,
+      "lon": -83.03196716308594,
+      "bearing": 177,
       "speed_mph": 36,
-      "updated_at": "2026-11-28T14:18:18.000Z",
+      "updated_at": "2026-11-28T14:20:56.000Z",
       "service_status": "in_service"
     },
     {
@@ -1160,7 +1159,7 @@
       "lon": -82.91080474853516,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:23.000Z",
+      "updated_at": "2026-11-28T14:20:53.000Z",
       "service_status": "in_service"
     },
     {
@@ -1169,11 +1168,11 @@
       "trip_id": "1431070",
       "direction_id": 1,
       "vehicle_id": "3614",
-      "lat": 42.52375793457031,
-      "lon": -82.89849090576172,
-      "bearing": 29,
-      "speed_mph": 30,
-      "updated_at": "2026-11-28T14:18:13.000Z",
+      "lat": 42.52992248535156,
+      "lon": -82.89029693603516,
+      "bearing": 31,
+      "speed_mph": 37,
+      "updated_at": "2026-11-28T14:20:50.000Z",
       "service_status": "in_service"
     },
     {
@@ -1182,11 +1181,11 @@
       "trip_id": "1725070",
       "direction_id": 0,
       "vehicle_id": "3739",
-      "lat": 42.40982437133789,
-      "lon": -83.04302978515625,
-      "bearing": 178,
-      "speed_mph": 30,
-      "updated_at": "2026-11-28T14:18:15.000Z",
+      "lat": 42.401206970214844,
+      "lon": -83.05601501464844,
+      "bearing": 243,
+      "speed_mph": 10,
+      "updated_at": "2026-11-28T14:20:50.000Z",
       "service_status": "in_service"
     },
     {
@@ -1195,11 +1194,11 @@
       "trip_id": "3444070",
       "direction_id": 0,
       "vehicle_id": "3613",
-      "lat": 42.38922882080078,
-      "lon": -82.91873931884766,
+      "lat": 42.38246536254883,
+      "lon": -82.93759155273438,
       "bearing": 244,
-      "speed_mph": 15,
-      "updated_at": "2026-11-28T14:18:22.000Z",
+      "speed_mph": 20,
+      "updated_at": "2026-11-28T14:20:56.000Z",
       "service_status": "in_service"
     },
     {
@@ -1208,11 +1207,11 @@
       "trip_id": "738070",
       "direction_id": 0,
       "vehicle_id": "3612",
-      "lat": 42.30910110473633,
-      "lon": -83.22614288330078,
-      "bearing": 258,
-      "speed_mph": 26,
-      "updated_at": "2026-11-28T14:18:16.000Z",
+      "lat": 42.3052978515625,
+      "lon": -83.24801635742188,
+      "bearing": 252,
+      "speed_mph": 18,
+      "updated_at": "2026-11-28T14:20:56.000Z",
       "service_status": "in_service"
     },
     {
@@ -1225,7 +1224,7 @@
       "lon": -83.14733123779297,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:57.000Z",
+      "updated_at": "2026-11-28T14:20:58.000Z",
       "service_status": "in_service"
     },
     {
@@ -1234,11 +1233,11 @@
       "trip_id": "245070",
       "direction_id": 1,
       "vehicle_id": "3733",
-      "lat": 42.44694137573242,
-      "lon": -83.10246276855469,
-      "bearing": 0,
-      "speed_mph": 38,
-      "updated_at": "2026-11-28T14:18:22.000Z",
+      "lat": 42.44734573364258,
+      "lon": -83.08181762695312,
+      "bearing": 268,
+      "speed_mph": 24,
+      "updated_at": "2026-11-28T14:20:55.000Z",
       "service_status": "in_service"
     },
     {
@@ -1247,11 +1246,11 @@
       "trip_id": "2337070",
       "direction_id": 1,
       "vehicle_id": "3618",
-      "lat": 42.3365592956543,
-      "lon": -83.0505599975586,
-      "bearing": 334,
-      "speed_mph": 7,
-      "updated_at": "2026-11-28T14:18:17.000Z",
+      "lat": 42.3428955078125,
+      "lon": -83.05487060546875,
+      "bearing": 296,
+      "speed_mph": 15,
+      "updated_at": "2026-11-28T14:20:52.000Z",
       "service_status": "in_service"
     },
     {
@@ -1264,7 +1263,7 @@
       "lon": -83.11683654785156,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:15.000Z",
+      "updated_at": "2026-11-28T14:20:45.000Z",
       "service_status": "in_service"
     },
     {
@@ -1273,11 +1272,11 @@
       "trip_id": "1370070",
       "direction_id": 1,
       "vehicle_id": "3748",
-      "lat": 42.45978927612305,
-      "lon": -83.18243408203125,
+      "lat": 42.46002960205078,
+      "lon": -83.16744232177734,
       "bearing": 88,
-      "speed_mph": 7,
-      "updated_at": "2026-11-28T14:18:10.000Z",
+      "speed_mph": 34,
+      "updated_at": "2026-11-28T14:21:03.000Z",
       "service_status": "in_service"
     },
     {
@@ -1286,11 +1285,11 @@
       "trip_id": "913070",
       "direction_id": 0,
       "vehicle_id": "3626",
-      "lat": 42.4619026184082,
-      "lon": -83.08293151855469,
-      "bearing": 271,
-      "speed_mph": 22,
-      "updated_at": "2026-11-28T14:18:22.000Z",
+      "lat": 42.461524963378906,
+      "lon": -83.09784698486328,
+      "bearing": 268,
+      "speed_mph": 16,
+      "updated_at": "2026-11-28T14:20:57.000Z",
       "service_status": "in_service"
     },
     {
@@ -1299,11 +1298,11 @@
       "trip_id": "",
       "direction_id": null,
       "vehicle_id": "3625",
-      "lat": 42.55481719970703,
-      "lon": -82.89911651611328,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:45.000Z",
+      "lat": 42.571617126464844,
+      "lon": -82.89028930664062,
+      "bearing": 21,
+      "speed_mph": 32,
+      "updated_at": "2026-11-28T14:20:15.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -1313,11 +1312,11 @@
       "trip_id": "372070",
       "direction_id": 1,
       "vehicle_id": "3749",
-      "lat": 42.473201751708984,
-      "lon": -83.28231048583984,
-      "bearing": 335,
-      "speed_mph": 15,
-      "updated_at": "2026-11-28T14:18:06.000Z",
+      "lat": 42.49980545043945,
+      "lon": -83.28495788574219,
+      "bearing": 358,
+      "speed_mph": 39,
+      "updated_at": "2026-11-28T14:20:57.000Z",
       "service_status": "in_service"
     },
     {
@@ -1330,7 +1329,7 @@
       "lon": -83.2000503540039,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:50.000Z",
+      "updated_at": "2026-11-28T14:20:22.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -1340,11 +1339,11 @@
       "trip_id": "2821070",
       "direction_id": 0,
       "vehicle_id": "3741",
-      "lat": 42.23838806152344,
-      "lon": -83.19487762451172,
-      "bearing": 178,
-      "speed_mph": 24,
-      "updated_at": "2026-11-28T14:18:22.000Z",
+      "lat": 42.22443771362305,
+      "lon": -83.19441223144531,
+      "bearing": 87,
+      "speed_mph": 6,
+      "updated_at": "2026-11-28T14:21:02.000Z",
       "service_status": "in_service"
     },
     {
@@ -1353,11 +1352,11 @@
       "trip_id": "2734070",
       "direction_id": 0,
       "vehicle_id": "3742",
-      "lat": 42.49728012084961,
-      "lon": -83.54296112060547,
+      "lat": 42.49727249145508,
+      "lon": -83.54295349121094,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:01.000Z",
+      "updated_at": "2026-11-28T14:21:01.000Z",
       "service_status": "in_service"
     },
     {
@@ -1370,7 +1369,7 @@
       "lon": -83.33580017089844,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:17:51.000Z",
+      "updated_at": "2026-11-28T14:20:22.000Z",
       "service_status": "not_in_service",
       "service_label": "Not in service"
     },
@@ -1380,11 +1379,11 @@
       "trip_id": "3349070",
       "direction_id": 0,
       "vehicle_id": "3745",
-      "lat": 42.30839157104492,
-      "lon": -83.26338958740234,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:15.000Z",
+      "lat": 42.30184555053711,
+      "lon": -83.26370239257812,
+      "bearing": 248,
+      "speed_mph": 5,
+      "updated_at": "2026-11-28T14:20:47.000Z",
       "service_status": "in_service"
     },
     {
@@ -1397,7 +1396,7 @@
       "lon": -83.52987670898438,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:19.000Z",
+      "updated_at": "2026-11-28T14:21:03.000Z",
       "service_status": "in_service"
     },
     {
@@ -1406,11 +1405,11 @@
       "trip_id": "1928070",
       "direction_id": 0,
       "vehicle_id": "3746",
-      "lat": 42.53809356689453,
-      "lon": -83.18013000488281,
-      "bearing": null,
-      "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:03.000Z",
+      "lat": 42.53773880004883,
+      "lon": -83.18033599853516,
+      "bearing": 269,
+      "speed_mph": 16,
+      "updated_at": "2026-11-28T14:20:55.000Z",
       "service_status": "in_service"
     },
     {
@@ -1423,13 +1422,13 @@
       "lon": -82.98670196533203,
       "bearing": null,
       "speed_mph": 0,
-      "updated_at": "2026-11-28T14:18:07.000Z",
+      "updated_at": "2026-11-28T14:20:51.000Z",
       "service_status": "in_service"
     }
   ],
   "source": {
     "ok": true,
-    "at": "2026-11-28T14:18:27.975Z",
+    "at": "2026-11-28T14:21:06.770Z",
     "vehicles": 108
   }
 }
