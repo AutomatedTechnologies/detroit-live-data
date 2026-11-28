@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T14:56:09.739Z",
+  "generated_at": "2026-11-28T14:58:47.820Z",
   "smart": {
     "method": "tu-static-join",
     "static_feed": "S1000147",
@@ -15,7 +15,7 @@
         "next_stop_eta": "2026-11-28T16:02:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:23.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "3070": {
         "route_id": "561",
@@ -28,7 +28,7 @@
         "next_stop_eta": "2026-11-28T15:58:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:31.000Z"
+        "updated_at": "2026-11-28T14:58:05.000Z"
       },
       "17070": {
         "route_id": "375",
@@ -36,25 +36,25 @@
         "vehicle_id": "3807",
         "headsign": "Old Redford Meijer",
         "state": "late",
-        "delay_sec": 177,
-        "next_stop_id": "1158",
-        "next_stop_eta": "2026-11-28T14:55:52.000Z",
+        "delay_sec": 90,
+        "next_stop_id": "1163",
+        "next_stop_eta": "2026-11-28T14:58:34.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:29.000Z"
+        "updated_at": "2026-11-28T14:58:23.000Z"
       },
       "76070": {
         "route_id": "450",
         "direction_id": 1,
         "vehicle_id": "3704",
         "headsign": "Pontiac",
-        "state": "early",
-        "delay_sec": -96,
-        "next_stop_id": "1995",
-        "next_stop_eta": "2026-11-28T14:54:38.000Z",
+        "state": "on-time",
+        "delay_sec": -49,
+        "next_stop_id": "2046",
+        "next_stop_eta": "2026-11-28T14:58:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:31.000Z"
+        "updated_at": "2026-11-28T14:58:26.000Z"
       },
       "80070": {
         "route_id": "460",
@@ -67,7 +67,7 @@
         "next_stop_eta": "2026-11-28T15:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:41.000Z"
+        "updated_at": "2026-11-28T14:58:14.000Z"
       },
       "104070": {
         "route_id": "510",
@@ -80,7 +80,7 @@
         "next_stop_eta": "2026-11-28T16:12:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:33.000Z"
+        "updated_at": "2026-11-28T14:58:04.000Z"
       },
       "141070": {
         "route_id": "780",
@@ -88,12 +88,12 @@
         "vehicle_id": "3779",
         "headsign": "Orchard Ridge",
         "state": "late",
-        "delay_sec": 182,
-        "next_stop_id": "2248",
-        "next_stop_eta": "2026-11-28T14:55:50.000Z",
+        "delay_sec": 168,
+        "next_stop_id": "6006",
+        "next_stop_eta": "2026-11-28T14:58:33.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:50.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "150070": {
         "route_id": "261",
@@ -101,38 +101,38 @@
         "vehicle_id": "3901",
         "headsign": "DTW",
         "state": "late",
-        "delay_sec": 209,
-        "next_stop_id": "578",
-        "next_stop_eta": "2026-11-28T14:55:57.000Z",
+        "delay_sec": 131,
+        "next_stop_id": "590",
+        "next_stop_eta": "2026-11-28T15:00:11.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:31.000Z"
+        "updated_at": "2026-11-28T14:58:25.000Z"
       },
       "151070": {
         "route_id": "730",
         "direction_id": 0,
         "vehicle_id": "3706",
         "headsign": "Telegraph via Detroit Zoo",
-        "state": "on-time",
-        "delay_sec": 58,
-        "next_stop_id": "4309",
-        "next_stop_eta": "2026-11-28T14:55:47.000Z",
+        "state": "late",
+        "delay_sec": 68,
+        "next_stop_id": "4319",
+        "next_stop_eta": "2026-11-28T15:00:08.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:45.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "177070": {
         "route_id": "405",
         "direction_id": 1,
         "vehicle_id": "3818",
         "headsign": "Jason Hargrove Transit Center",
-        "state": "early",
-        "delay_sec": -64,
+        "state": "on-time",
+        "delay_sec": 10,
         "next_stop_id": "8222",
-        "next_stop_eta": "2026-11-28T14:57:56.000Z",
+        "next_stop_eta": "2026-11-28T14:59:10.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:39.000Z"
+        "updated_at": "2026-11-28T14:58:19.000Z"
       },
       "184070": {
         "route_id": "375",
@@ -145,7 +145,7 @@
         "next_stop_eta": "2026-11-28T15:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:44.000Z"
+        "updated_at": "2026-11-28T14:58:15.000Z"
       },
       "192070": {
         "route_id": "462",
@@ -153,12 +153,12 @@
         "vehicle_id": "3834",
         "headsign": "Detroit",
         "state": "early",
-        "delay_sec": -144,
-        "next_stop_id": "1953",
-        "next_stop_eta": "2026-11-28T14:54:14.000Z",
+        "delay_sec": -103,
+        "next_stop_id": "1954",
+        "next_stop_eta": "2026-11-28T14:57:15.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:23.000Z"
       },
       "197070": {
         "route_id": "405",
@@ -171,7 +171,7 @@
         "next_stop_eta": "2026-11-28T15:25:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:39.000Z"
+        "updated_at": "2026-11-28T14:58:19.000Z"
       },
       "208070": {
         "route_id": "494",
@@ -184,7 +184,7 @@
         "next_stop_eta": "2026-11-28T15:50:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:40.000Z"
+        "updated_at": "2026-11-28T14:58:13.000Z"
       },
       "216070": {
         "route_id": "610",
@@ -197,7 +197,7 @@
         "next_stop_eta": "2026-11-28T16:23:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:37.000Z"
+        "updated_at": "2026-11-28T14:58:18.000Z"
       },
       "245070": {
         "route_id": "494",
@@ -205,12 +205,12 @@
         "vehicle_id": "3733",
         "headsign": "Barclay Circle",
         "state": "on-time",
-        "delay_sec": 1,
-        "next_stop_id": "8389",
-        "next_stop_eta": "2026-11-28T14:54:56.000Z",
+        "delay_sec": 43,
+        "next_stop_id": "8392",
+        "next_stop_eta": "2026-11-28T14:58:22.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:54:53.000Z"
+        "updated_at": "2026-11-28T14:58:16.000Z"
       },
       "248070": {
         "route_id": "494",
@@ -223,7 +223,7 @@
         "next_stop_eta": "2026-11-28T16:10:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:30.000Z"
+        "updated_at": "2026-11-28T14:58:03.000Z"
       },
       "311070": {
         "route_id": "261",
@@ -231,12 +231,12 @@
         "vehicle_id": "3604",
         "headsign": "Detroit",
         "state": "on-time",
-        "delay_sec": -1,
-        "next_stop_id": "7215",
-        "next_stop_eta": "2026-11-28T14:56:45.000Z",
+        "delay_sec": 32,
+        "next_stop_id": "7479",
+        "next_stop_eta": "2026-11-28T14:58:36.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:39.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "314070": {
         "route_id": "462",
@@ -244,25 +244,25 @@
         "vehicle_id": "3641",
         "headsign": "Auburn Mile via Pontiac",
         "state": "late",
-        "delay_sec": 294,
-        "next_stop_id": "4829",
-        "next_stop_eta": "2026-11-28T14:56:16.000Z",
+        "delay_sec": 236,
+        "next_stop_id": "7539",
+        "next_stop_eta": "2026-11-28T14:58:37.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:37.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "325070": {
         "route_id": "450",
         "direction_id": 0,
         "vehicle_id": "3646",
         "headsign": "Jason Hargrove Transit Center",
-        "state": "late",
-        "delay_sec": 78,
-        "next_stop_id": "2156",
-        "next_stop_eta": "2026-11-28T14:55:48.000Z",
+        "state": "on-time",
+        "delay_sec": 56,
+        "next_stop_id": "2232",
+        "next_stop_eta": "2026-11-28T14:58:41.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "357070": {
         "route_id": "160",
@@ -275,7 +275,7 @@
         "next_stop_eta": "2026-11-28T15:03:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:43.000Z"
+        "updated_at": "2026-11-28T14:58:14.000Z"
       },
       "374070": {
         "route_id": "560",
@@ -288,20 +288,20 @@
         "next_stop_eta": "2026-11-28T15:55:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:29.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "383070": {
         "route_id": "405",
         "direction_id": 1,
         "vehicle_id": "3719",
         "headsign": "Jason Hargrove Transit Center",
-        "state": "on-time",
-        "delay_sec": 0,
-        "next_stop_id": "1639",
-        "next_stop_eta": "2026-11-28T14:55:00.000Z",
+        "state": "early",
+        "delay_sec": -82,
+        "next_stop_id": "1644",
+        "next_stop_eta": "2026-11-28T14:57:50.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:54:56.000Z"
+        "updated_at": "2026-11-28T14:58:24.000Z"
       },
       "408070": {
         "route_id": "510",
@@ -314,7 +314,7 @@
         "next_stop_eta": "2026-11-28T15:41:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:46.000Z"
+        "updated_at": "2026-11-28T14:58:27.000Z"
       },
       "430070": {
         "route_id": "790",
@@ -327,7 +327,7 @@
         "next_stop_eta": "2026-11-28T15:20:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:14.000Z"
+        "updated_at": "2026-11-28T14:58:14.000Z"
       },
       "436070": {
         "route_id": "462",
@@ -335,12 +335,12 @@
         "vehicle_id": "3934",
         "headsign": "Auburn Mile via Pontiac",
         "state": "on-time",
-        "delay_sec": 60,
-        "next_stop_id": "2102",
-        "next_stop_eta": "2026-11-28T14:58:20.000Z",
+        "delay_sec": 34,
+        "next_stop_id": "1976",
+        "next_stop_eta": "2026-11-28T15:01:45.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:29.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "480070": {
         "route_id": "210",
@@ -348,12 +348,12 @@
         "vehicle_id": "3801",
         "headsign": "Fairlane",
         "state": "late",
-        "delay_sec": 300,
-        "next_stop_id": "690",
-        "next_stop_eta": "2026-11-28T14:55:50.000Z",
+        "delay_sec": 414,
+        "next_stop_id": "691",
+        "next_stop_eta": "2026-11-28T14:58:23.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:41.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "481070": {
         "route_id": "280",
@@ -361,12 +361,12 @@
         "vehicle_id": "3811",
         "headsign": "Old Redford Meijer via Romulus",
         "state": "on-time",
-        "delay_sec": 3,
-        "next_stop_id": "7215",
-        "next_stop_eta": "2026-11-28T14:56:49.000Z",
+        "delay_sec": 26,
+        "next_stop_id": "7945",
+        "next_stop_eta": "2026-11-28T14:58:38.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:20.000Z"
       },
       "512070": {
         "route_id": "250",
@@ -379,7 +379,7 @@
         "next_stop_eta": "2026-11-28T15:25:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:24.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "529070": {
         "route_id": "560",
@@ -387,12 +387,12 @@
         "vehicle_id": "4022",
         "headsign": "23 Mile",
         "state": "late",
-        "delay_sec": 262,
-        "next_stop_id": "3136",
-        "next_stop_eta": "2026-11-28T14:55:54.000Z",
+        "delay_sec": 246,
+        "next_stop_id": "3143",
+        "next_stop_eta": "2026-11-28T14:58:18.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:30.000Z"
+        "updated_at": "2026-11-28T14:58:16.000Z"
       },
       "536070": {
         "route_id": "462",
@@ -405,7 +405,7 @@
         "next_stop_eta": "2026-11-28T15:47:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:37.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "540070": {
         "route_id": "305",
@@ -418,7 +418,20 @@
         "next_stop_eta": "2026-11-28T15:32:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:44.000Z"
+        "updated_at": "2026-11-28T14:58:30.000Z"
+      },
+      "542070": {
+        "route_id": "561",
+        "direction_id": 0,
+        "vehicle_id": "3607",
+        "headsign": "Detroit",
+        "state": "on-time",
+        "delay_sec": 0,
+        "next_stop_id": "3210",
+        "next_stop_eta": "2026-11-28T16:26:00.000Z",
+        "in_service": true,
+        "method": "tu-static-join",
+        "updated_at": "2026-11-28T14:58:10.000Z"
       },
       "564070": {
         "route_id": "560",
@@ -431,7 +444,7 @@
         "next_stop_eta": "2026-11-28T16:25:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:24.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "595070": {
         "route_id": "780",
@@ -444,7 +457,7 @@
         "next_stop_eta": "2026-11-28T15:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:40.000Z"
+        "updated_at": "2026-11-28T14:58:20.000Z"
       },
       "596070": {
         "route_id": "740",
@@ -452,12 +465,12 @@
         "vehicle_id": "3772",
         "headsign": "Roseville",
         "state": "on-time",
-        "delay_sec": -4,
-        "next_stop_id": "4665",
-        "next_stop_eta": "2026-11-28T14:55:48.000Z",
+        "delay_sec": 31,
+        "next_stop_id": "4669",
+        "next_stop_eta": "2026-11-28T14:58:38.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:31.000Z"
+        "updated_at": "2026-11-28T14:58:25.000Z"
       },
       "636070": {
         "route_id": "780",
@@ -470,7 +483,7 @@
         "next_stop_eta": "2026-11-28T15:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:29.000Z"
+        "updated_at": "2026-11-28T14:58:29.000Z"
       },
       "638070": {
         "route_id": "375",
@@ -483,7 +496,7 @@
         "next_stop_eta": "2026-11-28T15:42:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:37.000Z"
+        "updated_at": "2026-11-28T14:58:08.000Z"
       },
       "643070": {
         "route_id": "250",
@@ -491,12 +504,12 @@
         "vehicle_id": "3923",
         "headsign": "Westland",
         "state": "late",
-        "delay_sec": 376,
-        "next_stop_id": "896",
-        "next_stop_eta": "2026-11-28T14:55:50.000Z",
+        "delay_sec": 353,
+        "next_stop_id": "7631",
+        "next_stop_eta": "2026-11-28T14:58:53.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:24.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "652070": {
         "route_id": "160",
@@ -509,7 +522,7 @@
         "next_stop_eta": "2026-11-28T15:30:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:36.000Z"
+        "updated_at": "2026-11-28T14:58:11.000Z"
       },
       "658070": {
         "route_id": "461",
@@ -522,7 +535,7 @@
         "next_stop_eta": "2026-11-28T16:05:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:48.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "680070": {
         "route_id": "275",
@@ -535,7 +548,7 @@
         "next_stop_eta": "2026-11-28T16:13:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:08.000Z"
       },
       "707070": {
         "route_id": "275",
@@ -543,12 +556,12 @@
         "vehicle_id": "3922",
         "headsign": "Taylor",
         "state": "late",
-        "delay_sec": 68,
-        "next_stop_id": "1223",
-        "next_stop_eta": "2026-11-28T14:55:50.000Z",
+        "delay_sec": 102,
+        "next_stop_id": "1077",
+        "next_stop_eta": "2026-11-28T14:58:46.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:08.000Z"
       },
       "711070": {
         "route_id": "561",
@@ -556,12 +569,12 @@
         "vehicle_id": "3838",
         "headsign": "23 Mile",
         "state": "late",
-        "delay_sec": 342,
-        "next_stop_id": "3200",
-        "next_stop_eta": "2026-11-28T14:56:42.000Z",
+        "delay_sec": 226,
+        "next_stop_id": "3092",
+        "next_stop_eta": "2026-11-28T14:59:42.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:25.000Z"
+        "updated_at": "2026-11-28T14:58:27.000Z"
       },
       "732070": {
         "route_id": "492",
@@ -569,12 +582,12 @@
         "vehicle_id": "3019",
         "headsign": "Jason Hargrove Transit Center",
         "state": "on-time",
-        "delay_sec": 0,
+        "delay_sec": 14,
         "next_stop_id": "4845",
-        "next_stop_eta": "2026-11-28T14:58:00.000Z",
+        "next_stop_eta": "2026-11-28T14:58:14.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:41.000Z"
+        "updated_at": "2026-11-28T14:58:14.000Z"
       },
       "734070": {
         "route_id": "450",
@@ -587,7 +600,7 @@
         "next_stop_eta": "2026-11-28T15:25:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:31.000Z"
+        "updated_at": "2026-11-28T14:58:26.000Z"
       },
       "758070": {
         "route_id": "790",
@@ -595,12 +608,12 @@
         "vehicle_id": "3809",
         "headsign": "Baldwin/Columbia via OU West Center",
         "state": "late",
-        "delay_sec": 1251,
-        "next_stop_id": "4849",
-        "next_stop_eta": "2026-11-28T14:56:51.000Z",
+        "delay_sec": 1368,
+        "next_stop_id": "4912",
+        "next_stop_eta": "2026-11-28T15:00:51.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:12.000Z"
+        "updated_at": "2026-11-28T14:58:18.000Z"
       },
       "806070": {
         "route_id": "305",
@@ -608,12 +621,12 @@
         "vehicle_id": "3831",
         "headsign": "Wixom Road",
         "state": "late",
-        "delay_sec": 75,
-        "next_stop_id": "1363",
-        "next_stop_eta": "2026-11-28T14:55:45.000Z",
+        "delay_sec": 98,
+        "next_stop_id": "1366",
+        "next_stop_eta": "2026-11-28T14:58:38.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:44.000Z"
+        "updated_at": "2026-11-28T14:58:30.000Z"
       },
       "808070": {
         "route_id": "280",
@@ -626,7 +639,7 @@
         "next_stop_eta": "2026-11-28T16:10:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:20.000Z"
       },
       "841070": {
         "route_id": "561",
@@ -634,12 +647,12 @@
         "vehicle_id": "3723",
         "headsign": "Detroit",
         "state": "late",
-        "delay_sec": 211,
-        "next_stop_id": "3277",
-        "next_stop_eta": "2026-11-28T14:56:26.000Z",
+        "delay_sec": 249,
+        "next_stop_id": "3283",
+        "next_stop_eta": "2026-11-28T14:59:25.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:31.000Z"
+        "updated_at": "2026-11-28T14:58:05.000Z"
       },
       "854070": {
         "route_id": "350",
@@ -652,20 +665,20 @@
         "next_stop_eta": "2026-11-28T15:45:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "862070": {
         "route_id": "710",
         "direction_id": 0,
         "vehicle_id": "3753",
         "headsign": "Telegraph",
-        "state": "on-time",
-        "delay_sec": 15,
-        "next_stop_id": "4037",
-        "next_stop_eta": "2026-11-28T14:56:05.000Z",
+        "state": "early",
+        "delay_sec": -80,
+        "next_stop_id": "4042",
+        "next_stop_eta": "2026-11-28T14:57:53.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:44.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "864070": {
         "route_id": "561",
@@ -678,7 +691,7 @@
         "next_stop_eta": "2026-11-28T15:25:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:43.000Z"
+        "updated_at": "2026-11-28T14:58:08.000Z"
       },
       "867070": {
         "route_id": "561",
@@ -691,7 +704,7 @@
         "next_stop_eta": "2026-11-28T15:55:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:25.000Z"
+        "updated_at": "2026-11-28T14:58:27.000Z"
       },
       "868070": {
         "route_id": "405",
@@ -699,12 +712,12 @@
         "vehicle_id": "3833",
         "headsign": "Commerce Walmart",
         "state": "late",
-        "delay_sec": 113,
-        "next_stop_id": "1594",
-        "next_stop_eta": "2026-11-28T14:56:00.000Z",
+        "delay_sec": 102,
+        "next_stop_id": "981",
+        "next_stop_eta": "2026-11-28T14:58:34.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "869070": {
         "route_id": "560",
@@ -712,12 +725,12 @@
         "vehicle_id": "3752",
         "headsign": "23 Mile",
         "state": "late",
-        "delay_sec": 73,
+        "delay_sec": 135,
         "next_stop_id": "3086",
-        "next_stop_eta": "2026-11-28T15:26:13.000Z",
+        "next_stop_eta": "2026-11-28T15:27:15.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:26.000Z"
       },
       "906070": {
         "route_id": "415",
@@ -730,7 +743,7 @@
         "next_stop_eta": "2026-11-28T16:05:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:33.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "909070": {
         "route_id": "495",
@@ -743,7 +756,7 @@
         "next_stop_eta": "2026-11-28T15:20:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:46.000Z"
+        "updated_at": "2026-11-28T14:58:16.000Z"
       },
       "912070": {
         "route_id": "500",
@@ -756,7 +769,7 @@
         "next_stop_eta": "2026-11-28T16:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:24.000Z"
       },
       "929070": {
         "route_id": "375",
@@ -769,20 +782,7 @@
         "next_stop_eta": "2026-11-28T16:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:29.000Z"
-      },
-      "996070": {
-        "route_id": "740",
-        "direction_id": 1,
-        "vehicle_id": "3775",
-        "headsign": "Roseville",
-        "state": "late",
-        "delay_sec": 64,
-        "next_stop_id": "4744",
-        "next_stop_eta": "2026-11-28T14:56:04.000Z",
-        "in_service": true,
-        "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:38.000Z"
+        "updated_at": "2026-11-28T14:58:23.000Z"
       },
       "1051070": {
         "route_id": "350",
@@ -795,7 +795,7 @@
         "next_stop_eta": "2026-11-28T16:25:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "1052070": {
         "route_id": "492",
@@ -803,12 +803,12 @@
         "vehicle_id": "3819",
         "headsign": "Oakland University",
         "state": "late",
-        "delay_sec": 73,
-        "next_stop_id": "8127",
-        "next_stop_eta": "2026-11-28T14:55:47.000Z",
+        "delay_sec": 68,
+        "next_stop_id": "8129",
+        "next_stop_eta": "2026-11-28T14:59:25.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:08.000Z"
       },
       "1081070": {
         "route_id": "740",
@@ -821,7 +821,20 @@
         "next_stop_eta": "2026-11-28T15:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:17.000Z"
+      },
+      "1112070": {
+        "route_id": "305",
+        "direction_id": 1,
+        "vehicle_id": "3831",
+        "headsign": "Wixom Road",
+        "state": "on-time",
+        "delay_sec": 0,
+        "next_stop_id": "7543",
+        "next_stop_eta": "2026-11-28T16:26:00.000Z",
+        "in_service": true,
+        "method": "tu-static-join",
+        "updated_at": "2026-11-28T14:58:30.000Z"
       },
       "1116070": {
         "route_id": "780",
@@ -829,12 +842,12 @@
         "vehicle_id": "3630",
         "headsign": "Harper",
         "state": "early",
-        "delay_sec": -108,
-        "next_stop_id": "5242",
-        "next_stop_eta": "2026-11-28T14:54:56.000Z",
+        "delay_sec": -441,
+        "next_stop_id": "5249",
+        "next_stop_eta": "2026-11-28T14:57:03.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "1121070": {
         "route_id": "492",
@@ -847,7 +860,7 @@
         "next_stop_eta": "2026-11-28T15:58:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:08.000Z"
       },
       "1141070": {
         "route_id": "790",
@@ -860,7 +873,20 @@
         "next_stop_eta": "2026-11-28T16:20:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:38.000Z"
+        "updated_at": "2026-11-28T14:58:18.000Z"
+      },
+      "1146070": {
+        "route_id": "561",
+        "direction_id": 1,
+        "vehicle_id": "3638",
+        "headsign": "23 Mile",
+        "state": "on-time",
+        "delay_sec": 0,
+        "next_stop_id": "7275",
+        "next_stop_eta": "2026-11-28T16:26:00.000Z",
+        "in_service": true,
+        "method": "tu-static-join",
+        "updated_at": "2026-11-28T14:58:17.000Z"
       },
       "1149070": {
         "route_id": "420",
@@ -873,7 +899,7 @@
         "next_stop_eta": "2026-11-28T15:30:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "1153070": {
         "route_id": "759",
@@ -886,7 +912,7 @@
         "next_stop_eta": "2026-11-28T17:14:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:56:01.000Z"
+        "updated_at": "2026-11-28T14:58:44.000Z"
       },
       "1159070": {
         "route_id": "730",
@@ -899,20 +925,20 @@
         "next_stop_eta": "2026-11-28T15:52:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:43.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "1218070": {
         "route_id": "280",
         "direction_id": 0,
         "vehicle_id": "3713",
         "headsign": "Evans Terminal",
-        "state": "on-time",
-        "delay_sec": 32,
+        "state": "late",
+        "delay_sec": 208,
         "next_stop_id": "7543",
-        "next_stop_eta": "2026-11-28T14:55:32.000Z",
+        "next_stop_eta": "2026-11-28T14:58:28.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:23.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "1226070": {
         "route_id": "510",
@@ -920,12 +946,12 @@
         "vehicle_id": "3774",
         "headsign": "L-Lakeside Circle",
         "state": "late",
-        "delay_sec": 176,
-        "next_stop_id": "2556",
-        "next_stop_eta": "2026-11-28T14:55:48.000Z",
+        "delay_sec": 93,
+        "next_stop_id": "2563",
+        "next_stop_eta": "2026-11-28T14:58:36.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:46.000Z"
+        "updated_at": "2026-11-28T14:58:27.000Z"
       },
       "1318070": {
         "route_id": "280",
@@ -938,7 +964,7 @@
         "next_stop_eta": "2026-11-28T16:04:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:23.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "1346070": {
         "route_id": "610",
@@ -946,25 +972,25 @@
         "vehicle_id": "3777",
         "headsign": "Detroit",
         "state": "late",
-        "delay_sec": 164,
-        "next_stop_id": "3460",
-        "next_stop_eta": "2026-11-28T14:55:38.000Z",
+        "delay_sec": 135,
+        "next_stop_id": "3466",
+        "next_stop_eta": "2026-11-28T14:58:19.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:37.000Z"
+        "updated_at": "2026-11-28T14:58:18.000Z"
       },
       "1370070": {
         "route_id": "710",
         "direction_id": 1,
         "vehicle_id": "3748",
         "headsign": "Mack / Moross",
-        "state": "on-time",
-        "delay_sec": 12,
-        "next_stop_id": "4206",
-        "next_stop_eta": "2026-11-28T14:56:17.000Z",
+        "state": "late",
+        "delay_sec": 72,
+        "next_stop_id": "4208",
+        "next_stop_eta": "2026-11-28T14:58:12.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:48.000Z"
+        "updated_at": "2026-11-28T14:58:12.000Z"
       },
       "1380070": {
         "route_id": "450",
@@ -977,7 +1003,7 @@
         "next_stop_eta": "2026-11-28T15:24:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "1388070": {
         "route_id": "740",
@@ -985,12 +1011,12 @@
         "vehicle_id": "3826",
         "headsign": "Wixom Road",
         "state": "late",
-        "delay_sec": 193,
-        "next_stop_id": "4538",
-        "next_stop_eta": "2026-11-28T14:56:13.000Z",
+        "delay_sec": 238,
+        "next_stop_id": "4542",
+        "next_stop_eta": "2026-11-28T14:59:16.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:26.000Z"
+        "updated_at": "2026-11-28T14:58:27.000Z"
       },
       "1412070": {
         "route_id": "494",
@@ -998,12 +1024,12 @@
         "vehicle_id": "3919",
         "headsign": "Jason Hargrove Transit Center",
         "state": "late",
-        "delay_sec": 116,
-        "next_stop_id": "2367",
-        "next_stop_eta": "2026-11-28T14:55:56.000Z",
+        "delay_sec": 96,
+        "next_stop_id": "2373",
+        "next_stop_eta": "2026-11-28T14:58:36.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:40.000Z"
+        "updated_at": "2026-11-28T14:58:13.000Z"
       },
       "1425070": {
         "route_id": "710",
@@ -1016,20 +1042,7 @@
         "next_stop_eta": "2026-11-28T15:36:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:48.000Z"
-      },
-      "1440070": {
-        "route_id": "461",
-        "direction_id": 0,
-        "vehicle_id": "3605",
-        "headsign": "Detroit",
-        "state": "late",
-        "delay_sec": 153,
-        "next_stop_id": "7275",
-        "next_stop_eta": "2026-11-28T14:56:34.000Z",
-        "in_service": true,
-        "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:23.000Z"
+        "updated_at": "2026-11-28T14:58:12.000Z"
       },
       "1483070": {
         "route_id": "510",
@@ -1042,7 +1055,7 @@
         "next_stop_eta": "2026-11-28T16:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:27.000Z"
       },
       "1486070": {
         "route_id": "500",
@@ -1055,7 +1068,7 @@
         "next_stop_eta": "2026-11-28T15:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "1495070": {
         "route_id": "730",
@@ -1068,7 +1081,7 @@
         "next_stop_eta": "2026-11-28T15:46:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:45.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "1505070": {
         "route_id": "350",
@@ -1081,7 +1094,7 @@
         "next_stop_eta": "2026-11-28T15:35:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:36.000Z"
+        "updated_at": "2026-11-28T14:58:09.000Z"
       },
       "1568070": {
         "route_id": "415",
@@ -1094,7 +1107,7 @@
         "next_stop_eta": "2026-11-28T14:59:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "1630070": {
         "route_id": "450",
@@ -1107,7 +1120,7 @@
         "next_stop_eta": "2026-11-28T16:20:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "1638070": {
         "route_id": "610",
@@ -1120,7 +1133,7 @@
         "next_stop_eta": "2026-11-28T15:23:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:29.000Z"
+        "updated_at": "2026-11-28T14:58:29.000Z"
       },
       "1684070": {
         "route_id": "740",
@@ -1128,12 +1141,12 @@
         "vehicle_id": "3731",
         "headsign": "Wixom Road",
         "state": "late",
-        "delay_sec": 100,
-        "next_stop_id": "4605",
-        "next_stop_eta": "2026-11-28T14:56:04.000Z",
+        "delay_sec": 70,
+        "next_stop_id": "1531",
+        "next_stop_eta": "2026-11-28T15:00:03.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:20.000Z"
       },
       "1691070": {
         "route_id": "610",
@@ -1146,7 +1159,7 @@
         "next_stop_eta": "2026-11-28T15:28:09.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:52.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "1728070": {
         "route_id": "275",
@@ -1159,7 +1172,7 @@
         "next_stop_eta": "2026-11-28T15:13:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:24.000Z"
+        "updated_at": "2026-11-28T14:58:25.000Z"
       },
       "1732070": {
         "route_id": "495",
@@ -1167,12 +1180,12 @@
         "vehicle_id": "3769",
         "headsign": "Jason Hargrove Transit Center",
         "state": "on-time",
-        "delay_sec": 19,
-        "next_stop_id": "2509",
-        "next_stop_eta": "2026-11-28T14:55:51.000Z",
+        "delay_sec": 55,
+        "next_stop_id": "8223",
+        "next_stop_eta": "2026-11-28T14:58:55.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:50.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "1787070": {
         "route_id": "405",
@@ -1185,20 +1198,7 @@
         "next_stop_eta": "2026-11-28T15:44:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
-      },
-      "1788070": {
-        "route_id": "759",
-        "direction_id": 0,
-        "vehicle_id": "3631",
-        "headsign": "Bogie Lake Road",
-        "state": "early",
-        "delay_sec": -133,
-        "next_stop_id": "8310",
-        "next_stop_eta": "2026-11-28T14:55:47.000Z",
-        "in_service": true,
-        "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:26.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "1920070": {
         "route_id": "250",
@@ -1206,12 +1206,12 @@
         "vehicle_id": "3715",
         "headsign": "Dearborn Transit Center",
         "state": "late",
-        "delay_sec": 607,
-        "next_stop_id": "883",
-        "next_stop_eta": "2026-11-28T14:56:07.000Z",
+        "delay_sec": 658,
+        "next_stop_id": "888",
+        "next_stop_eta": "2026-11-28T14:58:31.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:42.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "1937070": {
         "route_id": "759",
@@ -1224,7 +1224,7 @@
         "next_stop_eta": "2026-11-28T15:45:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:56:01.000Z"
+        "updated_at": "2026-11-28T14:58:44.000Z"
       },
       "1982070": {
         "route_id": "495",
@@ -1237,7 +1237,7 @@
         "next_stop_eta": "2026-11-28T16:05:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:50.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "2015070": {
         "route_id": "261",
@@ -1250,20 +1250,20 @@
         "next_stop_eta": "2026-11-28T16:02:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:39.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "2019070": {
         "route_id": "125",
         "direction_id": 0,
         "vehicle_id": "3728",
         "headsign": "Metro Airport",
-        "state": "on-time",
-        "delay_sec": 51,
-        "next_stop_id": "173",
-        "next_stop_eta": "2026-11-28T14:56:04.000Z",
+        "state": "late",
+        "delay_sec": 99,
+        "next_stop_id": "177",
+        "next_stop_eta": "2026-11-28T14:58:24.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:50.000Z"
+        "updated_at": "2026-11-28T14:58:23.000Z"
       },
       "2028070": {
         "route_id": "350",
@@ -1271,12 +1271,12 @@
         "vehicle_id": "3761",
         "headsign": "Commerce Walmart",
         "state": "late",
-        "delay_sec": 82,
+        "delay_sec": 237,
         "next_stop_id": "8004",
-        "next_stop_eta": "2026-11-28T14:56:22.000Z",
+        "next_stop_eta": "2026-11-28T14:58:57.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:36.000Z"
+        "updated_at": "2026-11-28T14:58:09.000Z"
       },
       "2042070": {
         "route_id": "200",
@@ -1289,7 +1289,7 @@
         "next_stop_eta": "2026-11-28T15:33:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:34.000Z"
+        "updated_at": "2026-11-28T14:58:05.000Z"
       },
       "2078070": {
         "route_id": "492",
@@ -1297,12 +1297,12 @@
         "vehicle_id": "3718",
         "headsign": "Oakland University",
         "state": "on-time",
-        "delay_sec": 0,
+        "delay_sec": 9,
         "next_stop_id": "8222",
-        "next_stop_eta": "2026-11-28T14:58:00.000Z",
+        "next_stop_eta": "2026-11-28T14:58:09.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:38.000Z"
+        "updated_at": "2026-11-28T14:58:09.000Z"
       },
       "2099070": {
         "route_id": "275",
@@ -1315,7 +1315,7 @@
         "next_stop_eta": "2026-11-28T15:34:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:44.000Z"
+        "updated_at": "2026-11-28T14:58:24.000Z"
       },
       "2120070": {
         "route_id": "462",
@@ -1328,7 +1328,7 @@
         "next_stop_eta": "2026-11-28T15:35:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:23.000Z"
       },
       "2167070": {
         "route_id": "250",
@@ -1341,7 +1341,7 @@
         "next_stop_eta": "2026-11-28T16:25:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:42.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "2176070": {
         "route_id": "560",
@@ -1354,7 +1354,7 @@
         "next_stop_eta": "2026-11-28T16:04:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:30.000Z"
+        "updated_at": "2026-11-28T14:58:16.000Z"
       },
       "2205070": {
         "route_id": "780",
@@ -1367,7 +1367,7 @@
         "next_stop_eta": "2026-11-28T15:55:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:50.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "2218070": {
         "route_id": "125",
@@ -1380,7 +1380,7 @@
         "next_stop_eta": "2026-11-28T15:51:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:50.000Z"
+        "updated_at": "2026-11-28T14:58:23.000Z"
       },
       "2225070": {
         "route_id": "250",
@@ -1393,7 +1393,7 @@
         "next_stop_eta": "2026-11-28T15:20:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:42.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "2255070": {
         "route_id": "500",
@@ -1406,7 +1406,20 @@
         "next_stop_eta": "2026-11-28T15:09:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:24.000Z"
+      },
+      "2266070": {
+        "route_id": "610",
+        "direction_id": 0,
+        "vehicle_id": "3926",
+        "headsign": "Detroit",
+        "state": "on-time",
+        "delay_sec": -16,
+        "next_stop_id": "8472",
+        "next_stop_eta": "2026-11-28T16:28:07.000Z",
+        "in_service": true,
+        "method": "tu-static-join",
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "2273070": {
         "route_id": "125",
@@ -1419,7 +1432,7 @@
         "next_stop_eta": "2026-11-28T15:36:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:25.000Z"
+        "updated_at": "2026-11-28T14:58:26.000Z"
       },
       "2300070": {
         "route_id": "500",
@@ -1432,7 +1445,7 @@
         "next_stop_eta": "2026-11-28T16:09:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "2315070": {
         "route_id": "561",
@@ -1440,12 +1453,12 @@
         "vehicle_id": "3638",
         "headsign": "Detroit",
         "state": "late",
-        "delay_sec": 168,
-        "next_stop_id": "3210",
-        "next_stop_eta": "2026-11-28T14:55:48.000Z",
+        "delay_sec": 242,
+        "next_stop_id": "3222",
+        "next_stop_eta": "2026-11-28T15:02:02.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:48.000Z"
+        "updated_at": "2026-11-28T14:58:17.000Z"
       },
       "2337070": {
         "route_id": "461",
@@ -1453,12 +1466,12 @@
         "vehicle_id": "3618",
         "headsign": "Troy Park & Ride via Somerset",
         "state": "late",
-        "delay_sec": 153,
-        "next_stop_id": "1989",
-        "next_stop_eta": "2026-11-28T14:57:33.000Z",
+        "delay_sec": 125,
+        "next_stop_id": "1991",
+        "next_stop_eta": "2026-11-28T14:59:34.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:39.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "2383070": {
         "route_id": "415",
@@ -1471,7 +1484,7 @@
         "next_stop_eta": "2026-11-28T16:09:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "2389070": {
         "route_id": "510",
@@ -1484,7 +1497,7 @@
         "next_stop_eta": "2026-11-28T15:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:33.000Z"
+        "updated_at": "2026-11-28T14:58:04.000Z"
       },
       "2439070": {
         "route_id": "510",
@@ -1492,12 +1505,12 @@
         "vehicle_id": "3627",
         "headsign": "Bel Air Center",
         "state": "late",
-        "delay_sec": 121,
-        "next_stop_id": "2674",
-        "next_stop_eta": "2026-11-28T14:56:00.000Z",
+        "delay_sec": 106,
+        "next_stop_id": "2677",
+        "next_stop_eta": "2026-11-28T14:58:30.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:48.000Z"
+        "updated_at": "2026-11-28T14:58:20.000Z"
       },
       "2447070": {
         "route_id": "250",
@@ -1510,20 +1523,20 @@
         "next_stop_eta": "2026-11-28T16:20:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:24.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "2476070": {
         "route_id": "462",
         "direction_id": 0,
         "vehicle_id": "4010",
         "headsign": "Detroit",
-        "state": "late",
-        "delay_sec": 62,
-        "next_stop_id": "5988",
-        "next_stop_eta": "2026-11-28T14:57:02.000Z",
+        "state": "on-time",
+        "delay_sec": 16,
+        "next_stop_id": "4804",
+        "next_stop_eta": "2026-11-28T15:02:04.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:42.000Z"
+        "updated_at": "2026-11-28T14:58:14.000Z"
       },
       "2494070": {
         "route_id": "415",
@@ -1531,12 +1544,12 @@
         "vehicle_id": "3746",
         "headsign": "Meijer-14 Mile",
         "state": "late",
-        "delay_sec": 233,
-        "next_stop_id": "1707",
-        "next_stop_eta": "2026-11-28T14:55:41.000Z",
+        "delay_sec": 227,
+        "next_stop_id": "1714",
+        "next_stop_eta": "2026-11-28T14:58:33.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:33.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "2515070": {
         "route_id": "495",
@@ -1544,12 +1557,12 @@
         "vehicle_id": "3616",
         "headsign": "Oakland Mall",
         "state": "late",
-        "delay_sec": 225,
-        "next_stop_id": "2459",
-        "next_stop_eta": "2026-11-28T14:56:31.000Z",
+        "delay_sec": 270,
+        "next_stop_id": "2461",
+        "next_stop_eta": "2026-11-28T14:58:16.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:46.000Z"
+        "updated_at": "2026-11-28T14:58:16.000Z"
       },
       "2536070": {
         "route_id": "460",
@@ -1562,7 +1575,7 @@
         "next_stop_eta": "2026-11-28T16:02:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:41.000Z"
+        "updated_at": "2026-11-28T14:58:14.000Z"
       },
       "2539070": {
         "route_id": "510",
@@ -1575,20 +1588,20 @@
         "next_stop_eta": "2026-11-28T15:30:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:48.000Z"
+        "updated_at": "2026-11-28T14:58:20.000Z"
       },
       "2560070": {
         "route_id": "350",
         "direction_id": 0,
         "vehicle_id": "3632",
         "headsign": "Grand River / Wixom",
-        "state": "on-time",
-        "delay_sec": 51,
-        "next_stop_id": "8411",
-        "next_stop_eta": "2026-11-28T14:55:51.000Z",
+        "state": "late",
+        "delay_sec": 84,
+        "next_stop_id": "8447",
+        "next_stop_eta": "2026-11-28T14:59:07.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "2562070": {
         "route_id": "759",
@@ -1601,7 +1614,7 @@
         "next_stop_eta": "2026-11-28T15:15:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:52.000Z"
+        "updated_at": "2026-11-28T14:58:17.000Z"
       },
       "2563070": {
         "route_id": "740",
@@ -1614,7 +1627,7 @@
         "next_stop_eta": "2026-11-28T15:33:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:38.000Z"
+        "updated_at": "2026-11-28T14:58:11.000Z"
       },
       "2565070": {
         "route_id": "759",
@@ -1622,12 +1635,12 @@
         "vehicle_id": "3628",
         "headsign": "Oakland University",
         "state": "late",
-        "delay_sec": 631,
-        "next_stop_id": "8239",
-        "next_stop_eta": "2026-11-28T14:55:50.000Z",
+        "delay_sec": 684,
+        "next_stop_id": "8236",
+        "next_stop_eta": "2026-11-28T14:58:24.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:24.000Z"
       },
       "2576070": {
         "route_id": "790",
@@ -1635,12 +1648,12 @@
         "vehicle_id": "3809",
         "headsign": "Adams Road via OU Main Campus",
         "state": "late",
-        "delay_sec": 124,
+        "delay_sec": 201,
         "next_stop_id": "4745",
-        "next_stop_eta": "2026-11-28T15:47:04.000Z",
+        "next_stop_eta": "2026-11-28T15:48:21.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:12.000Z"
+        "updated_at": "2026-11-28T14:58:18.000Z"
       },
       "2607070": {
         "route_id": "420",
@@ -1653,7 +1666,7 @@
         "next_stop_eta": "2026-11-28T15:40:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:33.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "2616070": {
         "route_id": "461",
@@ -1661,12 +1674,12 @@
         "vehicle_id": "3656",
         "headsign": "Detroit",
         "state": "on-time",
-        "delay_sec": 0,
-        "next_stop_id": "7148",
-        "next_stop_eta": "2026-11-28T14:58:00.000Z",
+        "delay_sec": -43,
+        "next_stop_id": "1940",
+        "next_stop_eta": "2026-11-28T15:00:17.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:48.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "2662070": {
         "route_id": "560",
@@ -1679,7 +1692,7 @@
         "next_stop_eta": "2026-11-28T15:23:28.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:24.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "2688070": {
         "route_id": "790",
@@ -1687,12 +1700,12 @@
         "vehicle_id": "3645",
         "headsign": "Adams Road via OU Main Campus",
         "state": "late",
-        "delay_sec": 105,
-        "next_stop_id": "7547",
-        "next_stop_eta": "2026-11-28T14:55:39.000Z",
+        "delay_sec": 161,
+        "next_stop_id": "7167",
+        "next_stop_eta": "2026-11-28T15:00:41.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:38.000Z"
+        "updated_at": "2026-11-28T14:58:18.000Z"
       },
       "2756070": {
         "route_id": "275",
@@ -1700,12 +1713,12 @@
         "vehicle_id": "3827",
         "headsign": "12 Mile",
         "state": "late",
-        "delay_sec": 91,
-        "next_stop_id": "949",
-        "next_stop_eta": "2026-11-28T14:55:46.000Z",
+        "delay_sec": 158,
+        "next_stop_id": "954",
+        "next_stop_eta": "2026-11-28T14:59:20.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:44.000Z"
+        "updated_at": "2026-11-28T14:58:24.000Z"
       },
       "2759070": {
         "route_id": "510",
@@ -1718,33 +1731,20 @@
         "next_stop_eta": "2026-11-28T15:03:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:27.000Z"
       },
       "2773070": {
         "route_id": "730",
         "direction_id": 1,
         "vehicle_id": "3776",
         "headsign": "Mack / Moross via Detroit Zoo",
-        "state": "late",
-        "delay_sec": 87,
-        "next_stop_id": "1564",
-        "next_stop_eta": "2026-11-28T14:56:07.000Z",
+        "state": "on-time",
+        "delay_sec": 59,
+        "next_stop_id": "4468",
+        "next_stop_eta": "2026-11-28T14:58:55.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:37.000Z"
-      },
-      "2779070": {
-        "route_id": "561",
-        "direction_id": 0,
-        "vehicle_id": "3653",
-        "headsign": "Detroit",
-        "state": "late",
-        "delay_sec": 210,
-        "next_stop_id": "7144",
-        "next_stop_eta": "2026-11-28T14:56:30.000Z",
-        "in_service": true,
-        "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:43.000Z"
+        "updated_at": "2026-11-28T14:58:11.000Z"
       },
       "2781070": {
         "route_id": "759",
@@ -1757,7 +1757,7 @@
         "next_stop_eta": "2026-11-28T15:34:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:26.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "2805070": {
         "route_id": "210",
@@ -1770,7 +1770,7 @@
         "next_stop_eta": "2026-11-28T16:21:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:41.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "2821070": {
         "route_id": "160",
@@ -1778,12 +1778,12 @@
         "vehicle_id": "3741",
         "headsign": "Trenton",
         "state": "late",
-        "delay_sec": 489,
-        "next_stop_id": "531",
-        "next_stop_eta": "2026-11-28T14:56:09.000Z",
+        "delay_sec": 585,
+        "next_stop_id": "533",
+        "next_stop_eta": "2026-11-28T14:58:52.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:36.000Z"
+        "updated_at": "2026-11-28T14:58:11.000Z"
       },
       "2871070": {
         "route_id": "494",
@@ -1796,7 +1796,7 @@
         "next_stop_eta": "2026-11-28T15:20:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:54:53.000Z"
+        "updated_at": "2026-11-28T14:58:16.000Z"
       },
       "2914070": {
         "route_id": "461",
@@ -1809,7 +1809,7 @@
         "next_stop_eta": "2026-11-28T15:41:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:39.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "2964070": {
         "route_id": "610",
@@ -1817,12 +1817,12 @@
         "vehicle_id": "3926",
         "headsign": "Mount Clemens",
         "state": "on-time",
-        "delay_sec": 30,
-        "next_stop_id": "3534",
-        "next_stop_eta": "2026-11-28T14:57:14.000Z",
+        "delay_sec": -42,
+        "next_stop_id": "3538",
+        "next_stop_eta": "2026-11-28T14:58:24.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "2965070": {
         "route_id": "495",
@@ -1835,7 +1835,7 @@
         "next_stop_eta": "2026-11-28T16:02:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:46.000Z"
+        "updated_at": "2026-11-28T14:58:16.000Z"
       },
       "2975070": {
         "route_id": "261",
@@ -1848,7 +1848,7 @@
         "next_stop_eta": "2026-11-28T15:40:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:31.000Z"
+        "updated_at": "2026-11-28T14:58:25.000Z"
       },
       "2987070": {
         "route_id": "210",
@@ -1861,7 +1861,7 @@
         "next_stop_eta": "2026-11-28T15:15:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:41.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "3096070": {
         "route_id": "740",
@@ -1874,7 +1874,7 @@
         "next_stop_eta": "2026-11-28T16:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:47.000Z"
+        "updated_at": "2026-11-28T14:58:20.000Z"
       },
       "3126070": {
         "route_id": "780",
@@ -1887,7 +1887,7 @@
         "next_stop_eta": "2026-11-28T16:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "3150070": {
         "route_id": "261",
@@ -1900,7 +1900,7 @@
         "next_stop_eta": "2026-11-28T15:08:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:42.000Z"
+        "updated_at": "2026-11-28T14:58:12.000Z"
       },
       "3152070": {
         "route_id": "710",
@@ -1913,20 +1913,20 @@
         "next_stop_eta": "2026-11-28T16:04:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:44.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "3160070": {
         "route_id": "730",
         "direction_id": 0,
         "vehicle_id": "3615",
         "headsign": "Telegraph via Detroit Zoo",
-        "state": "late",
-        "delay_sec": 81,
-        "next_stop_id": "4336",
-        "next_stop_eta": "2026-11-28T14:57:59.000Z",
+        "state": "on-time",
+        "delay_sec": 1,
+        "next_stop_id": "4339",
+        "next_stop_eta": "2026-11-28T14:58:35.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:49.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "3170070": {
         "route_id": "495",
@@ -1939,7 +1939,7 @@
         "next_stop_eta": "2026-11-28T15:17:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:50.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "3175070": {
         "route_id": "560",
@@ -1947,12 +1947,12 @@
         "vehicle_id": "3752",
         "headsign": "8 Mile",
         "state": "late",
-        "delay_sec": 643,
-        "next_stop_id": "3235",
-        "next_stop_eta": "2026-11-28T14:56:43.000Z",
+        "delay_sec": 646,
+        "next_stop_id": "3238",
+        "next_stop_eta": "2026-11-28T14:59:46.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:26.000Z"
       },
       "3198070": {
         "route_id": "494",
@@ -1965,7 +1965,7 @@
         "next_stop_eta": "2026-11-28T15:00:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:30.000Z"
+        "updated_at": "2026-11-28T14:58:03.000Z"
       },
       "3212070": {
         "route_id": "759",
@@ -1973,12 +1973,12 @@
         "vehicle_id": "3909",
         "headsign": "Oakland University",
         "state": "late",
-        "delay_sec": 196,
-        "next_stop_id": "7963",
-        "next_stop_eta": "2026-11-28T14:55:55.000Z",
+        "delay_sec": 72,
+        "next_stop_id": "4845",
+        "next_stop_eta": "2026-11-28T15:00:12.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:52.000Z"
+        "updated_at": "2026-11-28T14:58:17.000Z"
       },
       "3260070": {
         "route_id": "492",
@@ -1986,12 +1986,12 @@
         "vehicle_id": "3906",
         "headsign": "Jason Hargrove Transit Center",
         "state": "late",
-        "delay_sec": 290,
+        "delay_sec": 199,
         "next_stop_id": "8213",
-        "next_stop_eta": "2026-11-28T15:06:23.000Z",
+        "next_stop_eta": "2026-11-28T15:04:52.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "3285070": {
         "route_id": "730",
@@ -1999,12 +1999,12 @@
         "vehicle_id": "3647",
         "headsign": "Mack / Moross via Detroit Zoo",
         "state": "late",
-        "delay_sec": 64,
-        "next_stop_id": "4435",
-        "next_stop_eta": "2026-11-28T14:55:59.000Z",
+        "delay_sec": 134,
+        "next_stop_id": "4438",
+        "next_stop_eta": "2026-11-28T14:58:31.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:43.000Z"
+        "updated_at": "2026-11-28T14:58:31.000Z"
       },
       "3300070": {
         "route_id": "160",
@@ -2012,12 +2012,12 @@
         "vehicle_id": "3637",
         "headsign": "Dearborn Transit Center",
         "state": "late",
-        "delay_sec": 626,
-        "next_stop_id": "5944",
-        "next_stop_eta": "2026-11-28T14:55:41.000Z",
+        "delay_sec": 691,
+        "next_stop_id": "447",
+        "next_stop_eta": "2026-11-28T14:58:31.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:23.000Z"
+        "updated_at": "2026-11-28T14:58:28.000Z"
       },
       "3347070": {
         "route_id": "492",
@@ -2030,7 +2030,7 @@
         "next_stop_eta": "2026-11-28T16:03:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:51.000Z"
+        "updated_at": "2026-11-28T14:58:22.000Z"
       },
       "3413070": {
         "route_id": "560",
@@ -2043,7 +2043,7 @@
         "next_stop_eta": "2026-11-28T15:04:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:29.000Z"
+        "updated_at": "2026-11-28T14:58:32.000Z"
       },
       "3441070": {
         "route_id": "461",
@@ -2056,7 +2056,7 @@
         "next_stop_eta": "2026-11-28T15:04:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:23.000Z"
+        "updated_at": "2026-11-28T14:58:27.000Z"
       },
       "3463070": {
         "route_id": "200",
@@ -2069,20 +2069,20 @@
         "next_stop_eta": "2026-11-28T16:15:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:34.000Z"
+        "updated_at": "2026-11-28T14:58:05.000Z"
       },
       "3503070": {
         "route_id": "561",
         "direction_id": 1,
         "vehicle_id": "3607",
         "headsign": "23 Mile",
-        "state": "on-time",
-        "delay_sec": 0,
+        "state": "late",
+        "delay_sec": 131,
         "next_stop_id": "7275",
-        "next_stop_eta": "2026-11-28T14:56:00.000Z",
+        "next_stop_eta": "2026-11-28T14:58:11.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:46.000Z"
+        "updated_at": "2026-11-28T14:58:10.000Z"
       },
       "3507070": {
         "route_id": "561",
@@ -2095,7 +2095,7 @@
         "next_stop_eta": "2026-11-28T15:23:00.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:39.000Z"
+        "updated_at": "2026-11-28T14:58:09.000Z"
       },
       "3576070": {
         "route_id": "125",
@@ -2103,12 +2103,12 @@
         "vehicle_id": "3763",
         "headsign": "Fort Street-River Rouge",
         "state": "on-time",
-        "delay_sec": -18,
-        "next_stop_id": "7622",
-        "next_stop_eta": "2026-11-28T14:55:35.000Z",
+        "delay_sec": 2,
+        "next_stop_id": "2",
+        "next_stop_eta": "2026-11-28T14:58:15.000Z",
         "in_service": true,
         "method": "tu-static-join",
-        "updated_at": "2026-11-28T14:55:34.000Z"
+        "updated_at": "2026-11-28T14:58:09.000Z"
       }
     }
   },
